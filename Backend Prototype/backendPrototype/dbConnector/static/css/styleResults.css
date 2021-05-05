@@ -1,0 +1,58 @@
+.results{
+    margin: 0 auto;
+    background-color: white;
+    width: 80%;
+    padding-bottom: .75rem;
+    padding-left: 5.2%;
+    padding-right: 5.2%;
+    margin-top: .75rem;
+    margin-bottom: 1rem;
+    border-radius: .25rem;
+    border: .1rem solid #3F3F3F;
+}
+
+.indResults{
+    color: #3F3F3F;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    text-align: left;
+}
+
+.indResults .name{
+    font-size: 1.75rem;
+}
+
+.indResults p{
+    font-size: 1.1rem;
+    font-weight: 100;
+    opacity: .9;
+}
+
+.indResults p .title{
+    font-size: 1.1rem;
+    font-weight: 700;
+    opacity: 0.9;
+}
+
+.collapsible{
+    text-align: left;
+    color: #ff7300;
+    background-color: white;
+    height: 2rem;
+    border-color: #ff7300;
+    font-weight: 550;
+    border-radius: .2rem;
+    padding-left: 1rem;
+    width: 100%;
+    cursor: pointer;
+}
+
+.collapsible:hover{
+    border-color: #4F2C1D;
+    color: #4F2C1D;
+}
+
+.indPG{
+    list-style-type:circle;
+    padding-left:2rem;
+}

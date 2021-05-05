@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+{% load static %}
+<html leng="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Research Collaboration</title>
+    <meta name="viewport" content="width=device-width, initial scale1.0">
+    <link rel="stylesheet" href="{% static 'css/styleMain.css' %}">
+    <link rel="stylesheet" href="{% static 'css/styleResults.css' %}">
+</head>
+<body>
+    <nav>
+        <div class="logo"">
+            <a href="{% url 'home' %}"><img src="{%  static 'images/bgsulogo.png' %}" alt="logo"/></a>
+            <h1>Research Collaboration</h1>
+        </div>
+        <ul>
+            <li class="home"><a href="{% url 'home' %}">Home<span class="icon"><img src="{% static 'images\home-5-16.png'%}" alt="home"></span></a></li>
+            {% if user.is_authenticated %}
+                {% if faculty %}
+                <li class="update"><a href="{% url 'update' %}">Update<span class="icon"><img src="{% static 'images\upload-16.png'%}" alt="update"></span></a></li>
+                    {% endif %}
+                {{ user.username }}
+                <li class="signOut"><a href="{% url 'logout' %}">Sign Out<span class="icon"><img src="{% static 'images\logout-16.png' %}" alt="sign out"></span></a></li>
+            {% else %}
+                <li class="login"><a href="{% url 'login' %}">Login<span class="icon"><img src="{% static 'images\login-icon-18-16.png' %}" alt="login"></span></a></li>
+            {% endif %}
+        </ul>
+    </nav>
+    <div class="main">
+        <h1 class="title">Results for “{{ search_query }}” in <span class="area"> {{ selection }} </span></h1>
+        <div class="results">
+
+        {% for key,value in research_interests %}
+            <div class="indResults">
+                <h1 class="name">{{ key }}</h1>
+                <br>
+                <p><span class="title">Area of Study: </span><span style="font-size:1.1rem">{{ depart|get_item:key }}</span></p>
+                <p style="height: .75rem"></p>
+                <p><span class="title">Research Interests: </span></p>
+                <ul style="padding-left: 2rem;">
+                    {% for v in value %}
+                        <li style="margin-left:.5rem;font-size:1.1rem;padding-bottom:.25rem;list-style-type: circle;"> {{ v }} </li>
+                    {% endfor %}
+                </ul>
+                <p style="height: .75rem"></p>
+                <p><span class="title">Email: </span><span style="font-size: 1.1rem">{{ email|get_item:key }}</span></p>
+                <p style="height: .25rem"></p>
+            </div>
+
+            <br>
+            
+            <button type="button" data-toggle="collapse" data-target="#pubz" class="collapsible">Publications</button>
+            <div class="content" id="pubz" style="display:none">
+                <ul style="padding-left: 2rem;">
+                {% for v in pubz|get_item:key%}
+                    <li style="margin-left:.5rem;font-size:1.1rem;padding-bottom:.25rem;list-style-type: circle;"> {{ v }} </li>
+                {% endfor %}
+                </ul>
+            </div>
+            <p style="height: .75rem"></p>
+
+            <button type="button" data-target="#grantz" class="collapsible">Grants</button>
+            <div class="content" id="grantz" style="display:none">
+                <ul style="padding-left: 2rem;">
+                {% for v in grantz|get_item:key%}
+                    <li style="margin-left:.5rem;font-size:1.1rem;padding-bottom:.25rem;list-style-type: circle;"> {{ v }} </li>
+                {% endfor %}
+                </ul>
+            </div>
+             <br>
+             <br>
+            <hr style="background-color: #3f3f3f; color: #3f3f3f; width: 95%; border-width:0; height: 2px; margin: auto; margin-top: 10px; margin-bottom: 10px;">
+             <br>
+        {% endfor %}
+        </div>
+        <h1 class="title">Search for a Research Interest, Department, or Faculty Member Name:</h1>
+        <form class="searchBar" method="get" action="results">
+            <div class="dropSearch">
+                <select class="dropdown" id="dropdown" name="dropdown">
+                    <option value="interest">Research Interest</option>
+                    <option value="department">Department Title</option>
+                    <option value="name">Faculty Member Name</option>
+                </select>
+                <input class="search" id="search" type="text" placeholder="Enter Search" name="search">
+            </div>
+            <br>
+            <button class="searchBarButton" type="submit">Search <span class="triangle">&#9654</span></button>
+        </form>
+    </div>
+</body>
+</html>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+            content.style.display = "none";
+            } else {
+            content.style.display = "block";
+            }
+        });
+    }
+</script>

@@ -1,0 +1,44 @@
+.funds{
+    margin: 0 auto;
+    background-color: #D5d5d5;
+    width: 95%;
+    padding-bottom: 15px;
+    padding-left: 5.2%;
+    padding-right: 5.2%;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.indFund {
+    margin-bottom: 15px;
+}
+
+.indFund h1{
+    font-size: 32px;
+    text-align: center;
+    color: #3f3f3f;
+    opacity: 1.0;
+}
+
+.indFund h2{
+    font-size: 35px;
+    text-align: left;
+    color: #3f3f3f;
+    opacity: 0.8;
+    margin-bottom: 3px;
+}
+
+.indFund p{
+    text-align: left;
+    font-size: 20px;
+    color: #3f3f3f;
+    margin-bottom: 3px;
+}
+
+.indFund a{
+    font-size: 20px;
+    font-weight: 700;
+    color: #ff7300;
+}
+
+

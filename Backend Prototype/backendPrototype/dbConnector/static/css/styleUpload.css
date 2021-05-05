@@ -1,0 +1,32 @@
+.main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.fileUpload {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.fileUpload .choose {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.fileUpload .uploadButton {
+    padding-left: .3rem;
+    padding-right: .3rem;
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+}
+
+.dataInput .multi {
+    width: 100%;
+}
+
+.dataInput .buttonHolder {
+    margin: 0 auto;
+    text-align: center;
+}

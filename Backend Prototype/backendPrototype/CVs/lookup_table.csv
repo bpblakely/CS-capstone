@@ -1,0 +1,585 @@
+name,department,title,email,phone,last_name,first_name,middle_name,name_ref
+"Bizarro,Pascal A",Accounting/MIS,Associate Professor,pbizarr@bgsu.edu,419/372-8074,Bizarro,Pascal,A,pascal a bizarro
+"Coleman,Fred L",Accounting and MIS,Assistant Professor,fcolema@bgsu.edu,419/372-2734,Coleman,Fred,L,fred l coleman
+"Garcia,Luis Andre",Accounting/MIS,Professor,garcia@bgsu.edu,419/372-7812,Garcia,Luis,Andre,luis andre garcia
+"Good,Michael S",Accounting/MIS,Asst Teaching Professor,msgood@bgsu.edu,419/372-9653,Good,Michael,S,michael s good
+"Lachmiller,Laura J",Accounting and MIS,Assoc Teaching Professor,llachmi@bgsu.edu,419/372-8071,Lachmiller,Laura,J,laura j lachmiller
+"McKinney,Earl H",Accounting/MIS,Professor,emckinn@bgsu.edu,419/372-8336,McKinney,Earl,H,earl h mckinney
+"Pitre,Terence Jude",Accounting/MIS,Chair/Assoc Professor,tpitre@bgsu.edu,419/372-2324,Pitre,Terence,Jude,terence jude pitre
+"Rohrs,Brian Douglas",Accounting/MIS,Assoc Teaching Professor,brohrs@bgsu.edu,419/372-8313,Rohrs,Brian,Douglas,brian douglas rohrs
+"Sasidharan,Sharath",Accounting & MIS Dept,Associate Professor,ssasidh@bgsu.edu,419/372-2875,Sasidharan,Sharath,,sharath sasidharan
+"Schauer,Paul Christian",Accounting/MIS,Professor,schauer@bgsu.edu,419/372-2939,Schauer,Paul,Christian,paul christian schauer
+"Snead Jr,Kenneth C",Accounting/MIS,Professor,ksnead@bgsu.edu,419/372-8160,Snead Jr,Kenneth,C,kenneth c snead jr
+"Zeigler,James Falk",Accounting/MIS,Assoc Teaching Professor,jzeigle@bgsu.edu,419/372-2092,Zeigler,James,Falk,james falk zeigler
+"Sloane,Robert John",American Culture Studies,Asst Teaching Professor,rsloane@bgsu.edu,419/372-8886,Sloane,Robert,John,robert john sloane
+"Buskirk,Trent D",Applied Statics and Operations Research,Chair/Professor,buskirk@bgsu.edu,419/372-2363,Buskirk,Trent,D,trent d buskirk
+"Capar,Ibrahim",Business Administration,Assistant Professor,icapar@bgsu.edu,419/372-8714,Capar,Ibrahim,,ibrahim capar
+"Capar,Muge",Applied Statics and Operations Research,Asst Teaching Professor,mcapar@bgsu.edu,419/372-2363,Capar,Muge,,muge capar
+"Devine,Leigh",Applied Statistics/Operations Research,Assoc Teaching Professor,ldevine@bgsu.edu,419/372-9467,Devine,Leigh,,leigh devine
+"McGrath,Richard Neil",Applied Statistics/Operations Research,Professor,rnmcgra@bgsu.edu,419/372-8451,McGrath,Richard,Neil,richard neil mcgrath
+"Moninger,Kyle Bernard",Applied Statistics/ Oper Res,Asst Teaching Professor,kmoning@bgsu.edu,419/372-8714,Moninger,Kyle,Bernard,kyle bernard moninger
+"Rump,Christopher Michael",Applied Statistics/Operations Research,Associate Professor,cmrump@bgsu.edu,419/372-8098,Rump,Christopher,Michael,christopher michael rump
+"Sarkar,Shuchismita",Applied Statistics,Assistant Professor,ssarkar@bgsu.edu,419/372-2363,Sarkar,Shuchismita,,shuchismita sarkar
+"Stuart,Jennifer Renee",Applied Statistics,Asst Teaching Professor,jrstuar@bgsu.edu,419/372-2363,Stuart,Jennifer,Renee,jennifer renee stuart
+"Xu,Yuhang",Applied Statistics/Oper Res,Assistant Professor,xuy@bgsu.edu,419/372-2363,Xu,Yuhang,,yuhang xu
+"Yeh,Bai-Yau",Applied Statistics/Operations Research,Professor,byeh@bgsu.edu,419/372-8386,Yeh,Bai-Yau,,bai-yau yeh
+"Bidart,Maria Gabriela",Biological Science,Associate Professor,gbidart@bgsu.edu,419/372-4644,Bidart,Maria,Gabriela,maria gabriela bidart
+"Bouzat,Juan Luis",Biological Science,Chair/Professor,jbouzat@bgsu.edu,419/372-9240,Bouzat,Juan,Luis,juan luis bouzat
+"Bullerjahn,George S",Biological Science,Adjunct Professor,bullerj@bgsu.edu,419/372-8527,Bullerjahn,George,S,george s bullerjahn
+"Davis,Timothy",Biological Sciences,Associate Professor,timdavi@bgsu.edu,419/372-8553,Davis,Timothy,,timothy davis
+"Geusz,Michael Eric",Biological Science,Associate Professor,mgeusz@bgsu.edu,419/372-2433,Geusz,Michael,Eric,michael eric geusz
+"Halo,Julia Vera",Biology Department,Assistant Professor,halojv@bgsu.edu,419/372-4096,Halo,Julia,Vera,julia vera halo
+"Heckman,Carol",Biological Science,Professor,heckman@bgsu.edu,419/372-8218,Heckman,Carol,,carol heckman
+"Huber,Robert",Biological Science,Professor,rhuber@bgsu.edu,419/372-7492,Huber,Robert,,robert huber
+"Larsen,Raymond Anthony",Biological Science,Associate Professor,larsera@bgsu.edu,419/372-9559,Larsen,Raymond,Anthony,raymond anthony larsen
+"Mbuthia,Kamau Wakanene",Biological Science,Assoc Teaching Professor,mbuthkw@bgsu.edu,419/372-2732,Mbuthia,Kamau,Wakanene,kamau wakanene mbuthia
+"McCluney,Kevin E",Biology Department,Associate Professor,kmcclun@bgsu.edu,419/372-2332,McCluney,Kevin,E,kevin e mccluney
+"McKay,Robert Michael",Graduate College,Adjunct Professor,rmmckay@bgsu.edu,419/372-0433,McKay,Robert,Michael,robert michael mckay
+"Michaels,Helen J",Biological Science,Associate Professor,hmichae@bgsu.edu,419/372-2644,Michaels,Helen,J,helen j michaels
+"Miner,Jeffrey Gibson",Biological Science,Professor,jminer@bgsu.edu,419/372-8330,Miner,Jeffrey,Gibson,jeffrey gibson miner
+"Moore,Paul Andrew",Biology Department,Professor,pmoore@bgsu.edu,419/372-2332,Moore,Paul,Andrew,paul andrew moore
+"Morris,Paul Francis",Biological Science,Professor,pmorris@bgsu.edu,419/372-0481,Morris,Paul,Francis,paul francis morris
+"Neves,Kevin John",Biology,Asst Teaching Professor,kneves@bgsu.edu,419/372-4835,Neves,Kevin,John,kevin john neves
+"Oechsle,Crystal M",Biology/Forensic Science,Asst Teaching Professor,coechsl@bgsu.edu,419/372-2861,Oechsle,Crystal,M,crystal m oechsle
+"Partin,Matthew L",Biological Science,Teaching Professor,partim@bgsu.edu,419/372-2058,Partin,Matthew,L,matthew l partin
+"Pavuk,Daniel Mark",Biological Science,Teaching Professor,dmpavuk@bgsu.edu,419/372-4839,Pavuk,Daniel,Mark,daniel mark pavuk
+"Pelini,Shannon Lynn",Biology,Associate Professor,spelini@bgsu.edu,419/372-2332,Pelini,Shannon,Lynn,shannon lynn pelini
+"Phuntumart,Vipaporn",Biological Science,Associate Professor,vphuntu@bgsu.edu,419/372-4097,Phuntumart,Vipaporn,,vipaporn phuntumart
+"Rogers,Scott Orland",Biological Science,Professor,srogers@bgsu.edu,419/372-8550,Rogers,Scott,Orland,scott orland rogers
+"Root,Karen V",Biological Science,Professor,kvroot@bgsu.edu,419/372-8559,Root,Karen,V,karen v root
+"Sirum,Karen L",Biological Science,Associate Professor,ksirum@bgsu.edu,419/372-3877,Sirum,Karen,L,karen l sirum
+"Underwood,Eileen M",Biological Science,Associate Professor,eunderw@bgsu.edu,419/372-8564,Underwood,Eileen,M,eileen m underwood
+"Wagner,Amy Kristin",Biological Sciences,Assoc Teaching Professor,akwagne@bgsu.edu,419/372-0858,Wagner,Amy,Kristin,amy kristin wagner
+"Wales,Tamera Susan",Biological Science,Teaching Professor,tswales@bgsu.edu,419/372-8206,Wales,Tamera,Susan,tamera susan wales
+"Ward,Christopher",Arts &Sciences - Resources and Planning,Assistant Professor,chrward@bgsu.edu,419/372-8545,Ward,Christopher,,christopher ward
+"Wiegmann,Daniel D",Biological Science,Professor,ddwiegm@bgsu.edu,419/372-2691,Wiegmann,Daniel,D,daniel d wiegmann
+"Wildschutte,Hans Karl",Biological Science,Associate Professor,hansw@bgsu.edu,419/372-2332,Wildschutte,Hans,Karl,hans karl wildschutte
+"Woodruff,Ronny C",Biological Science,Distinguished Rsrch Professor,rwoodru@bgsu.edu,419/372-0376,Woodruff,Ronny,C,ronny c woodruff
+"Xu,Zhaohui",Biological Science,Associate Professor,zxu@bgsu.edu,419/372-2332,Xu,Zhaohui,,zhaohui xu
+"Zeilstra-Ryalls,Jill Helen",Biological Science,Professor,jzeilst@bgsu.edu,419/372-2872,Zeilstra-Ryalls,Jill,Helen,jill helen zeilstra-ryalls
+"van Staaden,Moira J",Biological Science,Professor,moirav@bgsu.edu,419/372-0341,van Staaden,Moira,J,moira j van staaden
+"Anzenbacher,Pavel",Chemistry Department,Professor,pavel@bgsu.edu,419/372-2080,Anzenbacher,Pavel,,pavel anzenbacher
+"Blass,Peter M",Chemistry Department,Assoc Teaching Professor,pmblass@bgsu.edu,419/372-9915,Blass,Peter,M,peter m blass
+"Cable,John R",Chemistry Department,Chr. Associate Professor,cable@bgsu.edu,419/372-2043,Cable,John,R,john r cable
+"Chung,Steven",Chemistry Department,Teaching Professor,schung@bgsu.edu,419/372-8258,Chung,Steven,,steven chung
+"Erickson,David Edwin",Chemistry Department,Assoc Teaching Professor,dericks@bgsu.edu,419/372-1841,Erickson,David,Edwin,david edwin erickson
+"Furgal,Joseph Coy",Chemistry Department,Assistant Professor,furgalj@bgsu.edu,419/372-2658,Furgal,Joseph,Coy,joseph coy furgal
+"Mejiritski,Ekaterina",Chemistry Department,Asst Teaching Professor,emejeri@bgsu.edu,419/372-2935,Mejiritski,Ekaterina,,ekaterina mejiritski
+"Messersmith,Stephania Jo",Chemistry Department,Teaching Professor,messers@bgsu.edu,419/372-3861,Messersmith,Stephania,Jo,stephania jo messersmith
+"Midden,William Robert",Cosmos,Adjunct Professor,midden@bgsu.edu,419/372-0563,Midden,William,Robert,william robert midden
+"Olivucci,Massimo",Chemistry Department,Adjunct Research Professor,molivuc@bgsu.edu,419/372-7606,Olivucci,Massimo,,massimo olivucci
+"Ostrowski,Alexis Dee",Chemistry Department,Associate Professor,alexiso@bgsu.edu,419/372-2809,Ostrowski,Alexis,Dee,alexis dee ostrowski
+"Shay,Siobhan",Chemistry,Asst Teaching Professor,sshay@bgsu.edu,419/372-8744,Shay,Siobhan,,siobhan shay
+"Sivaguru,Jayaraman",Chemistry Dept,Professor,sivagj@bgsu.edu,419/372-9450,Sivaguru,Jayaraman,,jayaraman sivaguru
+"Tan,Xiaohong",Chemistry Department,Assistant Professor,tanx@bgsu.edu,419/372-3229,Tan,Xiaohong,,xiaohong tan
+"Tarnovsky,Alexander N",Chemistry Department,Professor,atarnov@bgsu.edu,419/372-3865,Tarnovsky,Alexander,N,alexander n tarnovsky
+"Archer,Brent E",Col of Health & Human Services,Assistant Professor,barcher@bgsu.edu,419/372-7165,Archer,Brent,E,brent e archer
+"Brackenbury,Timothy Paul",Communication Disorders,Professor,tbracke@bgsu.edu,419/372-2515,Brackenbury,Timothy,Paul,timothy paul brackenbury
+"Dinnes,Carly",Communication Sciences and Disorders,Assistant Professor,cdinnes@bgsu.edu,419/372-2515,Dinnes,Carly,,carly dinnes
+"Dubasik,Virginia Lee",College of Health and Human Services,Associate Professor,vdubasi@bgsu.edu,419/372-7168,Dubasik,Virginia,Lee,virginia lee dubasik
+"Fitzgerald,Colleen E",College of Health and Human Services,Associate Professor,cefitzg@bgsu.edu,419/372-7182,Fitzgerald,Colleen,E,colleen e fitzgerald
+"Schrock,Laura Lee",Communications Disorders,Assoc Clinical Professor,schrock@bgsu.edu,419/372-7183,Schrock,Laura,Lee,laura lee schrock
+"Whitfield,Jason Albertson",Communication Disorders,Associate Professor,jawhitf@bgsu.edu,419/372-2515,Whitfield,Jason,Albertson,jason albertson whitfield
+"Carlson,Jadwiga Agata",Computer Science,Teaching Professor,jacarls@bgsu.edu,419/372-8704,Carlson,Jadwiga,Agata,jadwiga agata carlson
+"Chao,Joseph T",Computer Science,Associate Professor,jchao@bgsu.edu,419/372-2364,Chao,Joseph,T,joseph t chao
+"Conway,Ronald E",Computer Science,Teaching Professor,rconway@bgsu.edu,419/372-8777,Conway,Ronald,E,ronald e conway
+"Dasigi,Venu Gopal",Computer Science,Professor,vdasigi@bgsu.edu,419/372-7559,Dasigi,Venu,Gopal,venu gopal dasigi
+"Decker,Michael",Computer Science,Assistant Professor,mdecke@bgsu.edu,419/372-8703,Decker,Michael,,michael decker
+"Green II,Robert Charles",Computer Science,Associate Professor,greenr@bgsu.edu,419/372-8782,Green II,Robert,Charles,robert charles green ii
+"Kresman,Raymon Iyer",Computer Science,Professor,kresman@bgsu.edu,419/372-8783,Kresman,Raymon,Iyer,raymon iyer kresman
+"Lee,Jong Kwan",Computer Science,Chair/Assoc Professor,leej@bgsu.edu,419/372-2407,Lee,Jong,Kwan,jong kwan lee
+"Li,Ruinian",Computer Science,Assistant Professor,lir@bgsu.edu,419/372-0216,Li,Ruinian,,ruinian li
+"Rajaei,Hassan",Computer Science,Professor,rajaei@bgsu.edu,419/372-2002,Rajaei,Hassan,,hassan rajaei
+"Roy,Sankardas",Computer Science,Assistant Professor,sanroy@bgsu.edu,419/372-2342,Roy,Sankardas,,sankardas roy
+"Song,Tianyi",Computer Science,Asst Teaching Professor,tsong@bgsu.edu,419/372-2337,Song,Tianyi,,tianyi song
+"Tian,Qing",Arts &Sciences - Resources and Planning,Assistant Professor,qtian@bgsu.edu,419/372-2018,Tian,Qing,,qing tian
+"Wu,Yan",Computer Science,Associate Professor,yanwu@bgsu.edu,419/372-2337,Wu,Yan,,yan wu
+"Foust,James Curtis",Department of Journalism & PR,Professor,jfoust@bgsu.edu,419/372-2077,Foust,James,Curtis,james curtis foust
+"Garland,Kenneth P",School of Media and Communication,Assoc Teaching Professor,kgarlan@bgsu.edu,419/372-8971,Garland,Kenneth,P,kenneth p garland
+"Hagenbuch,Julie Kristen",Department of Journalism & PR,Teaching Professor,hagenjk@bgsu.edu,419/372-8126,Hagenbuch,Julie,Kristen,julie kristen hagenbuch
+"Rentner,Terry Lynn",School of Media and Communication,Professor,trentne@bgsu.edu,419/372-2079,Rentner,Terry,Lynn,terry lynn rentner
+"Taylor,Kelly Anne",Department of Journalism & PR,Teaching Professor,kellyat@bgsu.edu,419/372-0513,Taylor,Kelly,Anne,kelly anne taylor
+"Alday,Paul Wesley",Dept of Communication,Assoc Teaching Professor,palday@bgsu.edu,419/372-8856,Alday,Paul,Wesley,paul wesley alday
+"Anzicek,Emily Brooke",Dept of Communication,Teaching Professor,emilya@bgsu.edu,419/372-8951,Anzicek,Emily,Brooke,emily brooke anzicek
+"Atkinson,Joshua D",Dept of Communication,Associate Professor,jatkins@bgsu.edu,419/372-3403,Atkinson,Joshua,D,joshua d atkinson
+"Dowd,John Paul",Dept of Communication,Associate Professor,jpdowd@bgsu.edu,419/372-4575,Dowd,John,Paul,john paul dowd
+"Faulkner,Sandra L",Dept of Communication,Professor,sandraf@bgsu.edu,419/372-1998,Faulkner,Sandra,L,sandra l faulkner
+"Gajjala,Radhika",School of Media and Communication,Professor,radhik@bgsu.edu,419/372-0586,Gajjala,Radhika,,radhika gajjala
+"Gonzalez,Alberto",Dept of Communication,Professor,agonzal@bgsu.edu,419/372-6076,Gonzalez,Alberto,,alberto gonzalez
+"Gorsevski,Ellen W",Dept of Communication,Associate Professor,elleng@bgsu.edu,419/372-1997,Gorsevski,Ellen,W,ellen w gorsevski
+"Hanasono,Lisa Kiyomi",Dept of Communication,Associate Professor,lisakh@bgsu.edu,419/372-3512,Hanasono,Lisa,Kiyomi,lisa kiyomi hanasono
+"Lengel,Lara Martin",Dept of Communication,Professor,lengell@bgsu.edu,419/372-7653,Lengel,Lara,Martin,lara martin lengel
+"Haney,Jodi J",Educ/Div Teachingchng & Learning,Adjunct Professor,jhaney@bgsu.edu,419/372-9647,Haney,Jodi,J,jodi j haney
+"Myers,Holly J",Environment & Sustainability,Teaching Professor,hmyersj@bgsu.edu,419/372-8208,Myers,Holly,J,holly j myers
+"Busselle,Frederick Walter",Department of Journalism,Associate Professor,busself@bgsu.edu,419/372-6018,Busselle,Frederick,Walter,frederick walter busselle
+"Cardenas,Jose Arturo",Department of Telecommunications,Teaching Professor,cardenj@bgsu.edu,419/372-9516,Cardenas,Jose,Arturo,jose arturo cardenas
+"Ha,Louisa Shu Ying",Department of Telecommunications,Professor,louisah@bgsu.edu,419/372-9103,Ha,Louisa,Shu,louisa shu ha
+"Liggett,Lori",Department of Telecommunications,Teaching Professor,lorilig@bgsu.edu,419/372-3420,Liggett,Lori,,lori liggett
+"Rosati,Clayton F",Department of Telecommunications,Associate Professor,crosati@bgsu.edu,419/372-7654,Rosati,Clayton,F,clayton f rosati
+"Skinner,Ewart Courtney",Department of Telecommunications,Associate Professor,eskinne@bgsu.edu,419/372-8646,Skinner,Ewart,Courtney,ewart courtney skinner
+"Cook,Amanda Catherine",Economics Dept,Assistant Professor,accook@bgsu.edu,419/372-8065,Cook,Amanda,Catherine,amanda catherine cook
+"Huang,Minjie",Economics Dept,Asst Teaching Professor,huangm@bgsu.edu,419/372-2646,Huang,Minjie,,minjie huang
+"Kubasek,Nancy Katherine",Economics Department,Professor,nkubase@bgsu.edu,419/372-2379,Kubasek,Nancy,Katherine,nancy katherine kubasek
+"Quinn,Jarus K",Economics Department,Professor,kquinn@bgsu.edu,419/372-8652,Quinn,Jarus,K,jarus k quinn
+"Ryley,Walter T",Economics Dept,Asst Teaching Professor,wryley@bgsu.edu,419/372-2646,Ryley,Walter,T,walter t ryley
+"Schneider,Andrea Lynne",Economics Department,Assoc Teaching Professor,achaney@bgsu.edu,419/372-9678,Schneider,Andrea,Lynne,andrea lynne schneider
+"Shafer,Rachel C",Economics Dept,Assistant Professor,rshafer@bgsu.edu,419/372-2646,Shafer,Rachel,C,rachel c shafer
+"Sobota,Katharine W",Economics Department,Assoc Teaching Professor,kathark@bgsu.edu,419/372-3882,Sobota,Katharine,W,katharine w sobota
+"Vanderhart,Peter G",Economics Department,Chair/Professor,pvander@bgsu.edu,419/372-8070,Vanderhart,Peter,G,peter g vanderhart
+"Zeng,Zheng",Economics,Associate Professor,zzeng@bgsu.edu,419/372-8397,Zeng,Zheng,,zheng zeng
+"Abdulgader,Musbah",Col of Technology Adm,Asst Teaching Professor,mabdulg@bgsu.edu,419/372-2438,Abdulgader,Musbah,,musbah abdulgader
+"Adamcik,James Paul",College of Technology,Asst Teaching Professor,jadamci@bgsu.edu,419/372-7581,Adamcik,James,Paul,james paul adamcik
+"Braun,Carlton James",College of Technology,Assoc Teaching Professor,braunc@bgsu.edu,419/372-7581,Braun,Carlton,James,carlton james braun
+"Ferguson,Michael David",Col of Technology Adm,Asst Teaching Professor,fergmic@bgsu.edu,419/372-2873,Ferguson,Michael,David,michael david ferguson
+"Guo,Qi",College of Technology,Asst Teaching Professor,guoqi@bgsu.edu,419/372-8524,Guo,Qi,,qi guo
+"Jehan,Musarrat",College of Technology,Adjunct Assistant Professor,mjehan@bgsu.edu,419/372-7581,Jehan,Musarrat,,musarrat jehan
+"Jetley,Sudershan K",Technology Systems,Associate Professor,sjetley@bgsu.edu,419/372-2608,Jetley,Sudershan,K,sudershan k jetley
+"Kluse,Christopher John",College of Technology,Assistant Professor,ckluse@bgsu.edu,419/372-2441,Kluse,Christopher,John,christopher john kluse
+"Kolla,Sri R",Technology Systems,Professor,skolla@bgsu.edu,419/372-7507,Kolla,Sri,R,sri r kolla
+"Krishnankuttyrema,Resmi",Engineering Technologies,Asst Teaching Professor,resmik@bgsu.edu,419/372-5441,Krishnankuttyrema,Resmi,,resmi krishnankuttyrema
+"Mayyas,Mohammad A",Engineering Technologies,Associate Professor,mmayyas@bgsu.edu,419/372-8392,Mayyas,Mohammad,A,mohammad a mayyas
+"Sarder,MD Baniamin",College of Technology,Professor/Chair,msarder@bgsu.edu,419/372-6085,Sarder,MD,Baniamin,md baniamin sarder
+"Shila,Jacob Joshua",College of Technology,Assistant Professor,jshila@bgsu.edu,419/372-7581,Shila,Jacob,Joshua,jacob joshua shila
+"Shilov,Mikhail",Department of Engineering Technologies,Asst Teaching Professor,mshilov@bgsu.edu,419/372-5436,Shilov,Mikhail,,mikhail shilov
+"Albertini,William O",English Department,Associate Professor,woalber@bgsu.edu,419/372-8668,Albertini,William,O,william o albertini
+"Baird,Neil",English Department,Director/Associate Professor,neilb@bgsu.edu,419/372-7885,Baird,Neil,,neil baird
+"Begum,Khani",English Department,Associate Professor,khani@bgsu.edu,419/372-8143,Begum,Khani,,khani begum
+"Bird,Holly Marlene",English Department,Assoc Teaching Professor,hbird@bgsu.edu,419/372-4655,Bird,Holly,Marlene,holly marlene bird
+"Bliss,Jackson",English Department,Assistant Professor,jbliss@bgsu.edu,419/372-7684,Bliss,Jackson,,jackson bliss
+"Bommarito,Daniel Vincent",English Department,Associate Professor,dbommar@bgsu.edu,419/372-6833,Bommarito,Daniel,Vincent,daniel vincent bommarito
+"Burroughs,Siew Chat",English Department,Teaching Professor,sburrou@bgsu.edu,419/372-7550,Burroughs,Siew,Chat,siew chat burroughs
+"Capraro,Fernanda Patricia",English,Asst Teaching Professor,fcaprar@bgsu.edu,419/372-7554,Capraro,Fernanda,Patricia,fernanda patricia capraro
+"Celizic,Joseph Scott",General Studies Writing,Assoc Teaching Professor,cjoseph@bgsu.edu,419/372-8919,Celizic,Joseph,Scott,joseph scott celizic
+"Celli,Larissa Szporluk",English Department,Professor,slariss@bgsu.edu,419/372-7539,Celli,Larissa,Szporluk,larissa szporluk celli
+"Cloud,Abigail Anne",English Department,Teaching Professor,clouda@bgsu.edu,419/372-9686,Cloud,Abigail,Anne,abigail anne cloud
+"Coates,Kimberly",English Department,Associate Professor,kimbec@bgsu.edu,419/372-9189,Coates,Kimberly,,kimberly coates
+"Coates,Lawrence William",English Department,Professor,coatesl@bgsu.edu,419/372-2111,Coates,Lawrence,William,lawrence william coates
+"Cook,Amy C",General Studies Writing,Assoc Teaching Professor,amycook@bgsu.edu,419/372-9398,Cook,Amy,C,amy c cook
+"Cruea,Susan Marie",General Studies Writing,Teaching Professor,scruea@bgsu.edu,419/372-0157,Cruea,Susan,Marie,susan marie cruea
+"Current,Daniel Christopher",General Studies Writing,Asst Teaching Professor,dcurren@bgsu.edu,419/372-8033,Current,Daniel,Christopher,daniel christopher current
+"Duffy,Chad Everett",English Department,Assistant Professor,ciwertz@bgsu.edu,419/372-7683,Duffy,Chad,Everett,chad everett duffy
+"Felver,Bradley Joseph",General Studies Writing,Assoc Teaching Professor,bfelver@bgsu.edu,419/372-7545,Felver,Bradley,Joseph,bradley joseph felver
+"Gattozzi,Bryan Joseph",General Studies Writing,Assoc Teaching Professor,bryang@bgsu.edu,419/372-4651,Gattozzi,Bryan,Joseph,bryan joseph gattozzi
+"Gearhart,Stephannie S",English Department,Professor,stephsg@bgsu.edu,419/372-6841,Gearhart,Stephannie,S,stephannie s gearhart
+"Haught,Julie A",English Department,Teaching Professor,julieah@bgsu.edu,419/372-0587,Haught,Julie,A,julie a haught
+"Heba,Gary M",English Department,Associate Professor,gheba@bgsu.edu,419/372-6835,Heba,Gary,M,gary m heba
+"Hoy,Cheryl Ann",General Studies Writing,Teaching Professor,choy@bgsu.edu,419/372-4658,Hoy,Cheryl,Ann,cheryl ann hoy
+"Hubbell-Staeble,Dawn Denise",General Studies Writing,Teaching Professor,dhubbel@bgsu.edu,419/372-4650,Hubbell-Staeble,Dawn,Denise,dawn denise hubbell-staeble
+"Hunter,Lucinda Jean",English Department,Teaching Professor,lhunter@bgsu.edu,419/372-0173,Hunter,Lucinda,Jean,lucinda jean hunter
+"Jones III,Harland Wilber",English Department,Teaching Professor,hwjones@bgsu.edu,419/372-0564,Jones III,Harland,Wilber,harland wilber jones iii
+"Jordan,Ethan Timothy",General Studies Writing,Assoc Teaching Professor,ethanj@bgsu.edu,419/372-4659,Jordan,Ethan,Timothy,ethan timothy jordan
+"Jordan,Heather Lynn",General Studies Writing,Assoc Teaching Professor,hljorda@bgsu.edu,419/372-4657,Jordan,Heather,Lynn,heather lynn jordan
+"Kryzhanivska,Anastasiia",English,Asst Teaching Professor,akryzh@bgsu.edu,419/372-0149,Kryzhanivska,Anastasiia,,anastasiia kryzhanivska
+"Labbie,Erin Felicia",English Department,Professor,labbie@bgsu.edu,419/372-0598,Labbie,Erin,Felicia,erin felicia labbie
+"Lachowski,Cheryl Schaff",General Studies Writing,Teaching Professor,clachow@bgsu.edu,419/372-0549,Lachowski,Cheryl,Schaff,cheryl schaff lachowski
+"Lapinski,Piya Pal",English Department,Associate Professor,piyapl@bgsu.edu,419/372-7553,Lapinski,Piya,Pal,piya pal lapinski
+"Mahaffey,Cynthia Jo",General Studies Writing,Teaching Professor,mahaffc@bgsu.edu,419/372-9687,Mahaffey,Cynthia,Jo,cynthia jo mahaffey
+"Muir,Sharona Eve",English Department,Professor,smuir@bgsu.edu,419/372-5893,Muir,Sharona,Eve,sharona eve muir
+"Nickoson,Lee A",General Studies Writing,Chair/Professor,leenick@bgsu.edu,419/372-7543,Nickoson,Lee,A,lee a nickoson
+"Rybak,Amy Barber",General Studies Writing,Teaching Professor,arybak@bgsu.edu,419/372-2728,Rybak,Amy,Barber,amy barber rybak
+"Rzicznek,Amanda McGuire",General Studies Writing,Teaching Professor,amcguir@bgsu.edu,419/372-4660,Rzicznek,Amanda,McGuire,amanda mcguire rzicznek
+"Rzicznek,Frank Daniel",General Studies Writing,Teaching Professor,fdrzicz@bgsu.edu,419/372-6832,Rzicznek,Frank,Daniel,frank daniel rzicznek
+"Scarola,Tiffany Beth",General Studies Writing,Asst Teaching Professor,tscarol@bgsu.edu,419/372-6838,Scarola,Tiffany,Beth,tiffany beth scarola
+"Schulz,Michael Adam",General Studies Writing,Teaching Professor,mschulz@bgsu.edu,419/372-0537,Schulz,Michael,Adam,michael adam schulz
+"Sheffer,Jolie A",English Department,Associate Professor,jsheffe@bgsu.edu,419/372-0589,Sheffer,Jolie,A,jolie a sheffer
+"Spallinger,Kimberly Kaye",English Department,Teaching Professor,spallkk@bgsu.edu,419/372-8145,Spallinger,Kimberly,Kaye,kimberly kaye spallinger
+"Van Buskirk,Chad Michael",English Department,Assoc Teaching Professor,cvanbus@bgsu.edu,419/372-7545,Van Buskirk,Chad,Michael,chad michael van buskirk
+"Walsh,Rachel",English Department,Asst Teaching Professor,walshr@bgsu.edu,419/372-7561,Walsh,Rachel,,rachel walsh
+"Warnke,Jennifer Kay",English Department,Teaching Professor,jkwarnke@bgsu.edu,419/372-7551,Warnke,Jennifer,Kay,jennifer kay warnke
+"Wells-Jensen,Sheri Beth",English Department,Associate Professor,swellsj@bgsu.edu,419/372-8935,Wells-Jensen,Sheri,Beth,sheri beth wells-jensen
+"Werdebaugh,Sherri Renee",General Studies Writing,Teaching Professor,sherriw@bgsu.edu,419/372-4653,Werdebaugh,Sherri,Renee,sherri renee werdebaugh
+"Westrick,Ann Margaret",General Studies Writing,Teaching Professor,awest@bgsu.edu,419/372-8934,Westrick,Ann,Margaret,ann margaret westrick
+"Williams,Theresa Ann Aleshire",English Department,Teaching Professor,terria@bgsu.edu,419/372-0597,Williams,Theresa,Ann,theresa ann williams
+"Wood,Sue Carter",English Department,Associate Professor,carters@bgsu.edu,419/372-8107,Wood,Sue,Carter,sue carter wood
+"Zemanski,Elizabeth Loo",General Studies Writing,Teaching Professor,eloo@bgsu.edu,419/372-4661,Zemanski,Elizabeth,Loo,elizabeth loo zemanski
+"Zinz-Cheresnick,Jessica Dawn",General Studies Writing,Assoc Teaching Professor,jzinz@bgsu.edu,419/372-0595,Zinz-Cheresnick,Jessica,Dawn,jessica dawn zinz-cheresnick
+"Bhalla,Vibha",Ethnic Studies,Associate Professor,vibhab@bgsu.edu,419/372-2796,Bhalla,Vibha,,vibha bhalla
+"Birch,Jessica Elizabeth",School of Culture & Critical/Ethnic Studies,Asst Teaching Professor,jebirch@bgsu.edu,419/372-7610,Birch,Jessica,Elizabeth,jessica elizabeth birch
+"Edge,Thomas John",Department of Ethnics Studies,Assoc Teaching Professor,tjedge@bgsu.edu,419/372-2796,Edge,Thomas,John,thomas john edge
+"Menon,Sridevi",Ethnic Studies,Associate Professor,smenon@bgsu.edu,419/372-7119,Menon,Sridevi,,sridevi menon
+"Messer-Kruse,Timothy F",Ethnic Studies Department,Professor,tmesser@bgsu.edu,419/372-6056,Messer-Kruse,Timothy,F,timothy f messer-kruse
+"Moreno,Louie H",Department of Ethnic Studies/SCCS,Assoc Teaching Professor,lmoreno@bgsu.edu,419/372-2796,Moreno,Louie,H,louie h moreno
+"Stokely,Michelle",Ethnic Studies,Asst Teaching Professor,mstokel@bgsu.edu,419/372-7576,Stokely,Michelle,,michelle stokely
+"Walsh,Michaela Django",School of Culture & Critical,Assistant Professor,walshmd@bgsu.edu,419/372-7118,Walsh,Michaela,Django,michaela django walsh
+"Al-Shboul,Rinad Qasim",College of Education - Admin,Asst Teaching Professor,ralshbo@bgsu.edu,419/372-3917,Al-Shboul,Rinad,Qasim,rinad qasim al-shboul
+"Bae,Su Yun",Family and Consumer Sciences,Assistant Professor,sbae@bgsu.edu,419/372-7819,Bae,Su,Yun,su yun bae
+"Blessing,Stephanie Lee",College of Educ/Hum Dev/Dean,Asst Teaching Professor,sbless@bgsu.edu,419/372-8908,Blessing,Stephanie,Lee,stephanie lee blessing
+"Coleman,Priscilla Kari",Family & Consumer Sciences,Professor,pcolema@bgsu.edu,419/372-6492,Coleman,Priscilla,Kari,priscilla kari coleman
+"Gerard,Jean Marie",Family and Consumer Sciences,Associate Professor,jgerard@bgsu.edu,419/372-7853,Gerard,Jean,Marie,jean marie gerard
+"Guensche,Sarah Claire",Family & Consumer Science,Asst Teaching Professor,sarahcg@bgsu.edu,419/372-7821,Guensche,Sarah,Claire,sarah claire guensche
+"Holman,Elizabeth Grace",College of Education and Human Development,Assistant Professor,eholman@bgsu.edu,419/372-2502,Holman,Elizabeth,Grace,elizabeth grace holman
+"Krueger,Mary Margaret",Office of Dean of Students,Adjunct Assistant Professor,mkruege@bgsu.edu,419/372-2026,Krueger,Mary,Margaret,mary margaret krueger
+"Landry-Meyer,Laura Anne",Family and Consumer Sciences,Associate Professor,landrym@bgsu.edu,419/372-7848,Landry-Meyer,Laura,Anne,laura anne landry-meyer
+"Mitova,Mariana A",Family & Consumer Sciences,Teaching Professor,marianm@bgsu.edu,419/372-4412,Mitova,Mariana,A,mariana a mitova
+"Paul,Bernadette Coleen",College of Education - Admin,Adjunct Assistant Professor,paulbc@bgsu.edu,419/372-7403,Paul,Bernadette,Coleen,bernadette coleen paul
+"Peet,Susan Hobbs",Family & Consumer Sciences,Teaching Professor,speet@bgsu.edu,419/372-8257,Peet,Susan,Hobbs,susan hobbs peet
+"Popov,Lubomir Savov",Family and Consumer Sciences,Professor,lspopov@bgsu.edu,419/372-7935,Popov,Lubomir,Savov,lubomir savov popov
+"Standinger,Paul C",School of Family and Consumer Sciences,Asst Teaching Professor,pstandi@bgsu.edu,419/372-7823,Standinger,Paul,C,paul c standinger
+"Wooldridge,Deborah Gay",Family & Consumer Sciences,"Dir, FCS/Professor",dgwoold@bgsu.edu,419/372-7851,Wooldridge,Deborah,Gay,deborah gay wooldridge
+"Zengel,Marian Louise",Family and Consumer Sciences,Asst Teaching Professor,mzengel@bgsu.edu,419/372-7626,Zengel,Marian,Louise,marian louise zengel
+"Zibbel,John C",Family & COnsumer Sciences,Asst Teaching Professor,jzibbel@bgsu.edu,419/372-2525,Zibbel,John,C,john c zibbel
+"Bae,Sung Chul",Department of Finance,Chair/Professor,bae@bgsu.edu,419/372-8714,Bae,Sung,Chul,sung chul bae
+"Li,Mingsheng",Department of Finance,Professor,mli@bgsu.edu,419/372-9148,Li,Mingsheng,,mingsheng li
+"Liu,Liuling",Department of Finance,Associate Professor,liulinl@bgsu.edu,419/372-2520,Liu,Liuling,,liuling liu
+"Rush,Stephen Robert",Department of Finance,Assistant Professor,srrush@bgsu.edu,419/372-8972,Rush,Stephen,Robert,stephen robert rush
+"Slates,Michael David",Department of Finance,Asst Teaching Professor,mslates@bgsu.edu,419/372-9610,Slates,Michael,David,michael david slates
+"Starks,J Rockne",Department of Finance,Asst Teaching Professor,jrocks@bgsu.edu,419/372-8960,Starks,J,Rockne,j rockne starks
+"Freeworth,Staci L",Food and Nutrition,Assoc Clinical Professor,stacif@bgsu.edu,419/372-8122,Freeworth,Staci,L,staci l freeworth
+"Hamady,Carrie Marna",Public aand Allied Health,Assoc Clinical Professor,carrieh@bgsu.edu,419/372-0290,Hamady,Carrie,Marna,carrie marna hamady
+"Knippen,Kerri L",Food & Nutrition,Assistant Professor,kknippe@bgsu.edu,419/372-8316,Knippen,Kerri,L,kerri l knippen
+"Johnson-Webb,Karen D",Geography Department,Associate Professor,kdjohn@bgsu.edu,419/372-9124,Johnson-Webb,Karen,D,karen d johnson-webb
+"Paulikas,Marius J",Geology Department,Asst Teaching Professor,mpaulik@bgsu.edu,419/372-4142,Paulikas,Marius,J,marius j paulikas
+"Samel,Arthur N",Geography Department,Associate Professor,ansamel@bgsu.edu,419/372-9321,Samel,Arthur,N,arthur n samel
+"Zhou,Yu",Geography Department,Associate Professor,yzhou@bgsu.edu,419/372-7828,Zhou,Yu,,yu zhou
+"Farver,John Richard",Geology Department,Professor,jfarver@bgsu.edu,419/372-7203,Farver,John,Richard,john richard farver
+"Panter,Kurt S",Geology Department,Professor,kpanter@bgsu.edu,419/372-7337,Panter,Kurt,S,kurt s panter
+"Yacobucci,Margaret Mary",Geology Department,Professor,mmyacob@bgsu.edu,419/372-7982,Yacobucci,Margaret,Mary,margaret mary yacobucci
+"Stelle,Charles Davis",Gerontology,Associate Professor,cstelle@bgsu.edu,419/372-8304,Stelle,Charles,Davis,charles davis stelle
+"Wagner,Jennifer Ann",Gerontology,Asst Practitioner Professor,jawagne@bgsu.edu,419/372-7773,Wagner,Jennifer,Ann,jennifer ann wagner
+"Watson,Wendy Kay",Gerontology,Associate Professor,wwatson@bgsu.edu,419/372-1054,Watson,Wendy,Kay,wendy kay watson
+"Barr,Kara Elizabeth",History Department,Asst Teaching Professor,kebarr@bgsu.edu,419/372-8643,Barr,Kara,Elizabeth,kara elizabeth barr
+"Brooks,Michael Ernest",History Department,Assoc Teaching Professor,mebrook@bgsu.edu,419/372-8333,Brooks,Michael,Ernest,michael ernest brooks
+"Challu,Amilcar E",History Department,Chair/Associate Professor,achallu@bgsu.edu,419/372-2769,Challu,Amilcar,E,amilcar e challu
+"Forsyth,Douglas James",History Department,Associate Professor,dougfor@bgsu.edu,419/372-8284,Forsyth,Douglas,James,douglas james forsyth
+"Greene,Benjamin Patrick",History Department,Associate Professor,greeneb@bgsu.edu,419/372-9477,Greene,Benjamin,Patrick,benjamin patrick greene
+"Grunden,Walter Eugene",History Department,Professor,wgrund@bgsu.edu,419/372-8639,Grunden,Walter,Eugene,walter eugene grunden
+"Herndon,Ruth W",History Department,Professor,rwhernd@bgsu.edu,419/372-8445,Herndon,Ruth,W,ruth w herndon
+"Jackson,Nicole Maelyn",History Department,Associate Professor,nmjacks@bgsu.edu,419/372-2030,Jackson,Nicole,Maelyn,nicole maelyn jackson
+"Mancuso,Rebecca Jill",History Department,Associate Professor,rmancus@bgsu.edu,419/372-7424,Mancuso,Rebecca,Jill,rebecca jill mancuso
+"Martin,Scott Christopher",History Department,Professor,smartin@bgsu.edu,419/372-8767,Martin,Scott,Christopher,scott christopher martin
+"Nwauwa,Apollos Okwuchukwu",History Department,Professor,nwauwa@bgsu.edu,419/372-9483,Nwauwa,Apollos,Okwuchukwu,apollos okwuchukwu nwauwa
+"Schocket,Andrew Michael",American Culture Studies,Professor,aschock@bgsu.edu,419/372-8197,Schocket,Andrew,Michael,andrew michael schocket
+"Stark,Casey Marie",History Department,Asst Teaching Professor,starkcm@bgsu.edu,419/372-2030,Stark,Casey,Marie,casey marie stark
+"Brooks,Margaret Elizabeth",Management,Associate Professor,mbrooks@bgsu.edu,419/372-9389,Brooks,Margaret,Elizabeth,margaret elizabeth brooks
+"Cady,Steven Herrol",Management,Professor,scady@bgsu.edu,419/372-9388,Cady,Steven,Herrol,steven herrol cady
+"Carr,Amelia S",Management,Professor,ascarr@bgsu.edu,419/372-2543,Carr,Amelia,S,amelia s carr
+"Eboch,Karen Elizabeth C",Management,Teaching Professor,eboch@bgsu.edu,419/372-2755,Eboch,Karen,Elizabeth,karen elizabeth eboch
+"Min,Hokey",Management,Professor,hmin@bgsu.edu,419/372-3442,Min,Hokey,,hokey min
+"O'Neil,Deborah A",Management,Professor,oneild@bgsu.edu,419/372-5222,O'Neil,Deborah,A,deborah a o'neil
+"Sawaya III,William J",Management Department,Chair/Associate Professor,wsawaya@bgsu.edu,419/372-2946,Sawaya III,William,J,william j sawaya iii
+"Stahl,Barbara",Management,Asst Teaching Professor,stahlb@bgsu.edu,419/372-8210,Stahl,Barbara,,barbara stahl
+"Sullivan,Sherry E",Management,Professor,ssulliv@bgsu.edu,419/372-2366,Sullivan,Sherry,E,sherry e sullivan
+"Zhang,Man",Management,Professor,mzhang@bgsu.edu,419/372-6819,Zhang,Man,,man zhang
+"Hillman,Jared R",Fire-College,Asst Teaching Professor,jhillma@bgsu.edu,419/372-0623,Hillman,Jared,R,jared r hillman
+"Ravichandran,Swathi",Fire-College,Founding Director/Professor,rswathi@bgsu.edu,419/372-0733,Ravichandran,Swathi,,swathi ravichandran
+"Wisnom,Mary",Resort and Attraction Management (RAAM),Assoc Teaching Professor,mwisnom@bgsu.edu,419/372-0631,Wisnom,Mary,,mary wisnom
+"Chiarelott,Erik",Marketing Department,Assoc Teaching Professor,echiare@bgsu.edu,419/372-8001,Chiarelott,Erik,,erik chiarelott
+"Ewing,Douglas Randolph",Marketing Department,Associate Professor,dewing@bgsu.edu,419/372-6942,Ewing,Douglas,Randolph,douglas randolph ewing
+"Greenwald,Donna Lynn",Marketing Department,Teaching Professor,donnalg@bgsu.edu,419/372-9531,Greenwald,Donna,Lynn,donna lynn greenwald
+"Gremler,Dwayne David",Marketing,Professor,gremler@bgsu.edu,419/372-0226,Gremler,Dwayne,David,dwayne david gremler
+"Koppitsch,Steven Eric",Marketing Department,Associate Professor,skoppit@bgsu.edu,419/372-9529,Koppitsch,Steven,Eric,steven eric koppitsch
+"Krebs,Kristen Ann",Marketing Department,Assoc Teaching Professor,kakrebs@bgsu.edu,419/372-9649,Krebs,Kristen,Ann,kristen ann krebs
+"Meyer,Jeffrey Dean",Marketing Department,Associate Professor,jdmeyer@bgsu.edu,419/372-2052,Meyer,Jeffrey,Dean,jeffrey dean meyer
+"Rich,Gregory Alan",Marketing,Associate Professor,garich@bgsu.edu,419/372-6939,Rich,Gregory,Alan,gregory alan rich
+"Sutton,Mearl E",Marketing,Teaching Professor,msutton@bgsu.edu,419/372-6920,Sutton,Mearl,E,mearl e sutton
+"Titus,Philip A",Marketing,Associate Professor,ptitus@bgsu.edu,419/372-8406,Titus,Philip,A,philip a titus
+"Weisstein,Fei Lee",Department of Marketing,Associate Professor,fweisst@bgsu.edu,419/372-6940,Weisstein,Fei,Lee,fei lee weisstein
+"White,Ruth C",Marketing,Assoc Teaching Professor,rcwhite@bgsu.edu,419/372-8039,White,Ruth,C,ruth c white
+"Brown,Emily Pence",College of Musical Arts,Assistant Professor,brownep@bgsu.edu,419/372-2197,Brown,Emily,Pence,emily pence brown
+"Burger,Cole Philip",College of Musical Arts,Assoc Teaching Professor,coleb@bgsu.edu,419/372-2629,Burger,Cole,Philip,cole philip burger
+"Colprit,Elaine J",Music Education,Associate Professor,colprit@bgsu.edu,419/372-2068,Colprit,Elaine,J,elaine j colprit
+"Gruenhagen,Lisa Marie",College of Music,Associate Professor,lgruenh@bgsu.edu,419/372-2005,Gruenhagen,Lisa,Marie,lisa marie gruenhagen
+"Martin,Lisa Diane",College of Musical Arts,Assistant Professor,martlis@bgsu.edu,419/372-2095,Martin,Lisa,Diane,lisa diane martin
+"Menard,Elizabeth Ann",College of Musical Arts,Chair/Associate Professor,emenard@bgsu.edu,419/372-2625,Menard,Elizabeth,Ann,elizabeth ann menard
+"Munson,Mark Edward",Music Education,Professor,munson@bgsu.edu,419/372-8733,Munson,Mark,Edward,mark edward munson
+"Thompson,Jenny C",Educ/Div Teaching and Learning,Adjunct Associate Professor,jcthomp@bgsu.edu,419/372-9856,Thompson,Jenny,C,jenny c thompson
+"Ashmore,Peter Lance",College of Musical Arts,Adjunct Assistant Professor,pashmor@bgsu.edu,419/372-8177,Ashmore,Peter,Lance,peter lance ashmore
+"Bixler,David F",Music Performance Studies,Professor,dbixler@bgsu.edu,419/372-2953,Bixler,David,F,david f bixler
+"Brown,Emily Freeman",Music Performance Studies,Professor,efbrown@bgsu.edu,419/372-2289,Brown,Emily,Freeman,emily freeman brown
+"Buzzelli,Julie Anne",Collegeof Musical Arts,Adjunct Assistant Professor,juliebu@bgsu.edu,419/372-2909,Buzzelli,Julie,Anne,julie anne buzzelli
+"Bylsma,Kevin J",College of Musical Arts,Assoc Teaching Professor,kbylsma@bgsu.edu,419/372-8623,Bylsma,Kevin,J,kevin j bylsma
+"Chin,Caroline Eva",College of Musical Arts,Assistant Professor,cechin@bgsu.edu,419/372-0382,Chin,Caroline,Eva,caroline eva chin
+"Cloeter,Chelsea Dippel",College of Musical Arts,Adjunct Assistant Professor,cdcloet@bgsu.edu,262/527-6491,Cloeter,Chelsea,Dippel,chelsea dippel cloeter
+"Halsey,Jeffrey O",Music Performance Studies,Adjunct Professor,jhalsey@bgsu.edu,419/372-8148,Halsey,Jeffrey,O,jeffrey o halsey
+"Kasler,Ariel",Music Performance Studies,Asst Teaching Professor,arielk@bgsu.edu,419/372-2181,Kasler,Ariel,,ariel kasler
+"Klaas,Georg F",Moore Music Arts Center,Adjunct Professor,gklaas@bgsu.edu,419/372-2181,Klaas,Georg,F,georg f klaas
+"Kruse,Penny Thompson",Music Performance Studies,Professor,krusep@bgsu.edu,419/372-2757,Kruse,Penny,Thompson,penny thompson kruse
+"Lasch,Brittany Michele",College of Musical Arts,Assistant Professor,blasch@bgsu.edu,419/372-8006,Lasch,Brittany,Michele,brittany michele lasch
+"Lee,Sujin",College of Musical Arts,Adjunct Associate Professor,lsujin@bgsu.edu,419/372-2570,Lee,Sujin,,sujin lee
+"Liu,Solungga",Music Performance Studies,Associate Professor,sfliu@bgsu.edu,419/372-2830,Liu,Solungga,,solungga liu
+"McBride,Matthew Stephen",College of Musical Arts,Associate Professor,mcbridm@bgsu.edu,419/372-2428,McBride,Matthew,Stephen,matthew stephen mcbride
+"Melton,Laura",Music Performance Studies,Chair/Professor,meltonl@bgsu.edu,419/372-8025,Melton,Laura,,laura melton
+"Merritt-Grant,Myra Darlene",Music Performance Studies,Professor Creative Arts Excell,mmerrit@bgsu.edu,419/372-8499,Merritt-Grant,Myra,Darlene,myra darlene merritt-grant
+"Mieses,Nermis Susana",Music Performance Studies,Associate Professor,nmieses@bgsu.edu,419/372-2955,Mieses,Nermis,Susana,nermis susana mieses
+"Munro,Timothy",College of Musical Arts,Adjunct Professor,tmunro@bgsu.edu,419/372-2181,Munro,Timothy,,timothy munro
+"Pelletier,Andrew John",Music Performance Studies,Professor,pandrew@bgsu.edu,419/372-2321,Pelletier,Andrew,John,andrew john pelletier
+"Phares,Keith Douglas",Music Performance Studies,Assistant Professor,keithdp@bgsu.edu,419/372-2341,Phares,Keith,Douglas,keith douglas phares
+"Piccolo,Daniel Cosmo",College of Musical Arts,Assistant Professor,dpiccol@bgsu.edu,419/372-2163,Piccolo,Daniel,Cosmo,daniel cosmo piccolo
+"Rodgers,Jane Schoonmaker",Music Performance Studies,Associate Professor,janesro@bgsu.edu,419/372-8404,Rodgers,Jane,Schoonmaker,jane schoonmaker rodgers
+"Rohwer,Robert F",College of Musical Arts,Adjunct Assistant Professor,rrohwer@bgsu.edu,419/372-2097,Rohwer,Robert,F,robert f rohwer
+"Saenz,Charles Morales",Music Performance Studies,Professor,csaenz@bgsu.edu,419/372-8549,Saenz,Charles,Morales,charles morales saenz
+"Saltzman,David J",College of Musical Arts,Assoc Teaching Professor,dsaltzm@bgsu.edu,419/372-2097,Saltzman,David,J,david j saltzman
+"Sampen,John W",Music Performance Studies,Asst Teaching Professor,jsampen@bgsu.edu,419/372-2498,Sampen,John,W,john w sampen
+"Schempf,Kevin William",Music Performance Studies,Professor,schempf@bgsu.edu,419/372-2392,Schempf,Kevin,William,kevin william schempf
+"Schnipke,Richard Lee",College of Musical Arts,Assistant Professor,rschnip@bgsu.edu,419/372-8288,Schnipke,Richard,Lee,richard lee schnipke
+"Scholl,Christopher Lewis",Music Performance Studies,Associate Professor,cscholl@bgsu.edu,419/372-2287,Scholl,Christopher,Lewis,christopher lewis scholl
+"Scholl,Ellen Strba",College of Musical Arts,Adjunct Associate Professor,escholl@bgsu.edu,419/372-1039,Scholl,Ellen,Strba,ellen strba scholl
+"Snow,Brian Elliot",College of Musical Arts,Assistant Professor,besnow@bgsu.edu,419/372-2181,Snow,Brian,Elliot,brian elliot snow
+"Sparrow,Sharon",College of Musical Arts,Adjunct Professor,ssparro@bgsu.edu,419/372-2181,Sparrow,Sharon,,sharon sparrow
+"Yontov,Yevgeny",College of Musical Arts,Assistant Professor,yyontov@bgsu.edu,419/372-2181,Yontov,Yevgeny,,yevgeny yontov
+"Zook,Jeffery",College of Musical Arts,Adjunct Professor,jzook@bgsu.edu,419/372-2181,Zook,Jeffery,,jeffery zook
+"Coons,Christian L",Philosophy Department,Associate Professor,clcoons@bgsu.edu,419/372-2404,Coons,Christian,L,christian l coons
+"Joshi,Hrishikesh Sudas",Philosophy Department,Assistant Professor,joshih@bgsu.edu,213/210-1320,Joshi,Hrishikesh,Sudas,hrishikesh sudas joshi
+"Katzner,Louis I",Philosophy Department,Trustee Professor,lkatzne@bgsu.edu,419/372-6074,Katzner,Louis,I,louis i katzner
+"Vallier,Kevin Douglas",Department of Philosophy,Associate Professor,kvallie@bgsu.edu,419/372-7221,Vallier,Kevin,Douglas,kevin douglas vallier
+"Warmke,Brandon Dean",Philosophy,Assistant Professor,bwarmke@bgsu.edu,419/372-7142,Warmke,Brandon,Dean,brandon dean warmke
+"Weber,Michael Eric",Philosophy Department,Chair/Professor,meweber@bgsu.edu,419/372-7209,Weber,Michael,Eric,michael eric weber
+"Worley,Sara",Philosophy Department,Associate Professor,sworley@bgsu.edu,419/372-2899,Worley,Sara,,sara worley
+"Young,Ian Alexander",Philosophy Department,Teaching Professor,iyoung@bgsu.edu,419/372-9365,Young,Ian,Alexander,ian alexander young
+"Dellenbusch,Kate Erika",Physics & Astronomy,Teaching Professor,dellenk@bgsu.edu,419/372-7850,Dellenbusch,Kate,Erika,kate erika dellenbusch
+"Fulcher Jr,Lewis P",Physics & Astronomy,Professor,fulcher@bgsu.edu,419/372-2635,Fulcher Jr,Lewis,P,lewis p fulcher jr
+"Layden,Andrew Choisy",Physics & Astronomy,Chair/Professor,laydena@bgsu.edu,419/372-8653,Layden,Andrew,Choisy,andrew choisy layden
+"Mandell,Eric S",Physics & Astronomy,Teaching Professor,meric@bgsu.edu,419/372-8108,Mandell,Eric,S,eric s mandell
+"Nardone,Marco",Physics & Astronomy,Associate Professor,marcon@bgsu.edu,419/372-9644,Nardone,Marco,,marco nardone
+"Rogel,Allen B",Physics & Astronomy,Teaching Professor,abrogel@bgsu.edu,419/372-8014,Rogel,Allen,B,allen b rogel
+"Selim,Farida A",Physics and Astronomy,Associate Professor,faselim@bgsu.edu,419/372-2421,Selim,Farida,A,farida a selim
+"Smith,Dale W",Physics & Astronomy,Professor,dwsmith@bgsu.edu,419/372-8666,Smith,Dale,W,dale w smith
+"Sun,Liangfeng",Physics and Astronomy,Associate Professor,lsun@bgsu.edu,419/372-7245,Sun,Liangfeng,,liangfeng sun
+"Tiede,Glenn Paul",Physics & Astronomy,Teaching Professor,gptiede@bgsu.edu,419/372-8707,Tiede,Glenn,Paul,glenn paul tiede
+"Xi,Haowen",Physics & Astronomy,Associate Professor,haowen@bgsu.edu,419/372-7244,Xi,Haowen,,haowen xi
+"Zamkov,Mikhail A",Physics & Astronomy,Professor,zamkovm@bgsu.edu,419/372-2421,Zamkov,Mikhail,A,mikhail a zamkov
+"Zayak,Alexey",Physics & Astronomy,Associate Professor,azayak@bgsu.edu,419/372-2421,Zayak,Alexey,,alexey zayak
+"Bhati,Abhishek",Political Science,Assistant Professor,abhati@bgsu.edu,419/372-7329,Bhati,Abhishek,,abhishek bhati
+"Boston,Joshua",Political Science,Assistant Professor,jboston@bgsu.edu,419/372-6378,Boston,Joshua,,joshua boston
+"Charter,Michael Russell",Political Science,Adjunct Assistant Professor,chartem@bgsu.edu,419/372-2921,Charter,Michael,Russell,michael russell charter
+"Dzur,Albert William",Political Science Department,Professor,awdzur@bgsu.edu,419/372-7270,Dzur,Albert,William,albert william dzur
+"Fritsch,Stefan H",Political Science Department,Associate Professor,sfritsc@bgsu.edu,419/372-7338,Fritsch,Stefan,H,stefan h fritsch
+"Jackson,David James",Political Science Department,Professor,jacksod@bgsu.edu,419/372-2922,Jackson,David,James,david james jackson
+"Jesse,Neal Glen",Political Science,Professor,njesse@bgsu.edu,419/372-7266,Jesse,Neal,Glen,neal glen jesse
+"Kalaf-Hughes,Nicole Georgette",Political Science,Associate Professor,ngkalaf@bgsu.edu,419/372-7273,Kalaf-Hughes,Nicole,Georgette,nicole georgette kalaf-hughes
+"Kear,Andrew Robert",Political Science Department,Associate Professor,akear@bgsu.edu,419/372-8194,Kear,Andrew,Robert,andrew robert kear
+"Miller,Melissa Kary",Political Science Department,Professor,melissm@bgsu.edu,419/372-2924,Miller,Melissa,Kary,melissa kary miller
+"Orr,Shannon Kathryn",Political Science Department,Professor,skorr@bgsu.edu,419/372-7593,Orr,Shannon,Kathryn,shannon kathryn orr
+"Piroth,Scott Randall",Political Science Department,Teaching Professor,spiroth@bgsu.edu,419/372-7268,Piroth,Scott,Randall,scott randall piroth
+"Rex,Justin M",Political Science,Assistant Professor,jmrex@bgsu.edu,419/372-2107,Rex,Justin,M,justin m rex
+"Walterhouse,Gregory L",Political Science Department,Assoc Teaching Professor,waltegl@bgsu.edu,419/372-6009,Walterhouse,Gregory,L,gregory l walterhouse
+"Wells,Dominic D",Political Science,Assistant Professor,wellsd@bgsu.edu,419/372-1819,Wells,Dominic,D,dominic d wells
+"Brown,Jeffrey Allan",Popular Culture,Professor,jabrown@bgsu.edu,419/372-2982,Brown,Jeffrey,Allan,jeffrey allan brown
+"Cragin,Becca",Popular Culture,Associate Professor,bcragin@bgsu.edu,419/372-7860,Cragin,Becca,,becca cragin
+"Donahue,Matthew",Popular Culture,Teaching Professor,mattdon@bgsu.edu,419/372-9181,Donahue,Matthew,,matthew donahue
+"Knoell,Tiffany Lee",School of Culture & Critical,Asst Teaching Professor,tknoell@bgsu.edu,419/372-8172,Knoell,Tiffany,Lee,tiffany lee knoell
+"Miller,Montana Caitlin",Popular Culture,Associate Professor,montanm@bgsu.edu,419/372-0184,Miller,Montana,Caitlin,montana caitlin miller
+"Nelson,Angela M Spence",Ethnic Studies,Associate Professor,anelson@bgsu.edu,419/372-0284,Nelson,Angela,M,angela m nelson
+"Rudisill,Kristen D",Popular Culture,Associate Professor,rudisik@bgsu.edu,419/372-2444,Rudisill,Kristen,D,kristen d rudisill
+"Wallach,Jeremy Wayne",Popular Culture,Professor,jeremyw@bgsu.edu,419/372-8204,Wallach,Jeremy,Wayne,jeremy wayne wallach
+"Anderson,Richard B",Psychology Department,Associate Professor,randers@bgsu.edu,419/372-9908,Anderson,Richard,B,richard b anderson
+"Barratt,Clare Louise",Psychology Department,Associate Professor,cbarrat@bgsu.edu,419/372-2301,Barratt,Clare,Louise,clare louise barratt
+"Braden,Abby Lynn",Department of Psychology,Assistant Professor,abbym@bgsu.edu,419/372-9405,Braden,Abby,Lynn,abby lynn braden
+"Chen,Yiwei",Psychology Department,Professor,ywchen@bgsu.edu,419/372-2462,Chen,Yiwei,,yiwei chen
+"Cromwell,Howard Casey",Psychology Department,Associate Professor,hcc@bgsu.edu,419/372-2301,Cromwell,Howard,Casey,howard casey cromwell
+"Docherty,Meagan A.",Department of Psychology,Assistant Professor,mdocher@bgsu.edu,419/372-4939,Docherty,Meagan,A.,meagan a. docherty
+"Dubow,Eric F",Psychology Department,Professor,edubow@bgsu.edu,419/372-2556,Dubow,Eric,F,eric f dubow
+"Dworsky,Dryw O",Psychology Department,Clinical Professor,dworsky@bgsu.edu,419/372-3934,Dworsky,Dryw,O,dryw o dworsky
+"Garrett-Ruffin,Sherona D",Department of Psychology,Teaching Professor,sgarret@bgsu.edu,419/372-8125,Garrett-Ruffin,Sherona,D,sherona d garrett-ruffin
+"Gordon,Anne Kathryn",Psychology Department,Associate Professor,akg@bgsu.edu,419/372-8161,Gordon,Anne,Kathryn,anne kathryn gordon
+"Grubbs,Joshua Briggs",Psychology,Assistant Professor,grubbsj@bgsu.edu,419/372-8680,Grubbs,Joshua,Briggs,joshua briggs grubbs
+"Highhouse,Scott Edward",Psychology Department,Professor and Eminent Scholar,shighho@bgsu.edu,419/372-8078,Highhouse,Scott,Edward,scott edward highhouse
+"Keith,Melissa G",Psychology,Assistant Professor,mgkeith@bgsu.edu,419/372-2371,Keith,Melissa,G,melissa g keith
+"Mahoney,Annette",Psychology Department,Professor,amahone@bgsu.edu,419/372-0282,Mahoney,Annette,,annette mahoney
+"McAbee,Samuel T",Arts &Sciences - Resources and Planning,Assistant Professor,smcabee@bgsu.edu,419/372-4337,McAbee,Samuel,T,samuel t mcabee
+"Musher-Eizenman,Dara Robin",Psychology Department,Professor,mushere@bgsu.edu,419/372-2948,Musher-Eizenman,Dara,Robin,dara robin musher-eizenman
+"O'Brien,William H",Psychology Department,Professor,wobrien@bgsu.edu,419/372-2974,O'Brien,William,H,william h o'brien
+"Stein,Catherine H",Psychology Department,Professor,cstein@bgsu.edu,419/372-2278,Stein,Catherine,H,catherine h stein
+"Tompsett,Carolyn Joyce",Psychology Department,Chair/ Associate Professor,cjtomps@bgsu.edu,419/372-8256,Tompsett,Carolyn,Joyce,carolyn joyce tompsett
+"Willing,Jari G",Psychology Department,Assistant Professor,jwillin@bgsu.edu,419/372-2301,Willing,Jari,G,jari g willing
+"Zickar,Michael John",Psychology Department,Professor,mzickar@bgsu.edu,419/372-9984,Zickar,Michael,John,michael john zickar
+"Fevrier,Bradley",Public & Allied Health,Assistant Professor,fevrieb@bgsu.edu,419/372-7849,Fevrier,Bradley,,bradley fevrier
+"Harr,Robert R",Public and Allied Health,Adjunct Associate Professor,rharr@bgsu.edu,419/372-6040,Harr,Robert,R,robert r harr
+"Jacobs,Lisa Ann",College of Health and Human Services,Assistant Professor,lajacob@bgsu.edu,419/372-8249,Jacobs,Lisa,Ann,lisa ann jacobs
+"Kershaw,Jonathan Carl",College of Health & Human Services,Assistant Professor,jkersha@bgsu.edu,419/372-4579,Kershaw,Jonathan,Carl,jonathan carl kershaw
+"Kramer,Antoinette M",School of Nursing,Asst Teaching Professor,krameam@bgsu.edu,419/372-8249,Kramer,Antoinette,M,antoinette m kramer
+"Lawrence,Nicole Theresa",College of Health and Human Services,Asst Clinical Professor,lawrenn@bgsu.edu,419/372-6335,Lawrence,Nicole,Theresa,nicole theresa lawrence
+"Lee,Jinha",College of Health & Human Services,Assistant Professor,jinhal@bgsu.edu,419/372-4830,Lee,Jinha,,jinha lee
+"Maziarz,Lauren Nicole",Col of Health & Human Services,Assistant Professor,lmaziar@bgsu.edu,419/372-7725,Maziarz,Lauren,Nicole,lauren nicole maziarz
+"Schaeffer,Sharon M",Public & Allied Health,Asst Clinical Professor,sharons@bgsu.edu,419/372-1052,Schaeffer,Sharon,M,sharon m schaeffer
+"Schmalzried,Hans D",Public and Allied Health,Adjunct Professor,hschmal@bgsu.edu,419/372-7920,Schmalzried,Hans,D,hans d schmalzried
+"Shen,Wan",Public and Allied Health,Assistant Professor,wanshen@bgsu.edu,419/372-7868,Shen,Wan,,wan shen
+"Welch,Philip John",College of Health and Human Services,Associate Professor,pjwelch@bgsu.edu,419/372-0368,Welch,Philip,John,philip john welch
+"Witherell,Shelmith",College of Health and Human Services,Assistant Professor,swither@bgsu.edu,419/372-8249,Witherell,Shelmith,,shelmith witherell
+"Arrigo,Michael Todd",School of Art,Professor,marrigo@bgsu.edu,419/372-9320,Arrigo,Michael,Todd,michael todd arrigo
+"Balistreri Jr,John Anthony",School of Art,Professor,balistr@bgsu.edu,419/372-7764,Balistreri Jr,John,Anthony,john anthony balistreri jr
+"Ballweg,Janet C",School of Art,Professor,jballwe@bgsu.edu,419/372-8515,Ballweg,Janet,C,janet c ballweg
+"Bergstrom,Barbara J",School of Art,Associate Professor,bjbergs@bgsu.edu,419/372-2786,Bergstrom,Barbara,J,barbara j bergstrom
+"Briggs,Brandon Matthew",School of Art,Assoc Teaching Professor,bmbrigg@bgsu.edu,419/372-4550,Briggs,Brandon,Matthew,brandon matthew briggs
+"Cardinal,Andrea L.",School of Art,Assistant Professor,andcard@bgsu.edu,419/372-9943,Cardinal,Andrea,L.,andrea l. cardinal
+"Densel,Shari",School of Art,Asst Teaching Professor,sdensel@bgsu.edu,419/372-5529,Densel,Shari,,shari densel
+"Dupay,Marcelle Marie",School of Art,Teaching Professor,mmdupay@bgsu.edu,419/372-3896,Dupay,Marcelle,Marie,marcelle marie dupay
+"Eber,Dena Elisabeth",School of Art,Professor/Assoc Dir,deber@bgsu.edu,419/372-8526,Eber,Dena,Elisabeth,dena elisabeth eber
+"Fidler,Amy Tavormina",School of Art,Teaching Professor,afidler@bgsu.edu,419/372-8688,Fidler,Amy,Tavormina,amy tavormina fidler
+"Gilliatt,Andrew Lucas",School of Art,Asst Teaching Professor,agillia@bgsu.edu,419/372-2015,Gilliatt,Andrew,Lucas,andrew lucas gilliatt
+"Guldbeck,Mille",School of Art,Professor,guld@bgsu.edu,419/372-9319,Guldbeck,Mille,,mille guldbeck
+"Hershberger,Andrew Edward",School of Art,Professor,aehersh@bgsu.edu,419/372-2895,Hershberger,Andrew,Edward,andrew edward hershberger
+"Hoag,Allison Nicole",School of Art,Assistant Professor,ahoag@bgsu.edu,419/372-2786,Hoag,Allison,Nicole,allison nicole hoag
+"Kanwischer,Edmond Charles",School of Art,Director/Professor,ckanwis@bgsu.edu,419/372-9395,Kanwischer,Edmond,Charles,edmond charles kanwischer
+"Light,Ruthy",School of Art,Teaching Professor,ruthy@bgsu.edu,419/372-2786,Light,Ruthy,,ruthy light
+"Mazzupappa,Ross Joseph",School of Art,Asst Teaching Professor,rjmazzu@bgsu.edu,419/372-2786,Mazzupappa,Ross,Joseph,ross joseph mazzupappa
+"Miller,Klee",Arts &Sciences - Resources and Planning,Asst Teaching Professor,kleem@bgsu.edu,419/372-2018,Miller,Klee,,klee miller
+"Mitchell,Bonnie L",School of Art,Professor,bonniem@bgsu.edu,419/372-6055,Mitchell,Bonnie,L,bonnie l mitchell
+"Morin,Shawn P",School of Art,Professor,morinsp@bgsu.edu,419/372-7766,Morin,Shawn,P,shawn p morin
+"Muir,Thomas Patrick",School of Art,Distinguished Professor,tmuir@bgsu.edu,419/372-8529,Muir,Thomas,Patrick,thomas patrick muir
+"O'Dorisio,Joel T",Arts Village,Teaching Professor,joelo@bgsu.edu,419/372-3537,O'Dorisio,Joel,T,joel t o'dorisio
+"Pahapill,Leigh-Ann",School of Art,Associate Professor,pahapil@bgsu.edu,419/372-8952,Pahapill,Leigh-Ann,,leigh-ann pahapill
+"Ricketts,Gordon Charles",School of Art,Teaching Professor,gordonr@bgsu.edu,419/372-0558,Ricketts,Gordon,Charles,gordon charles ricketts
+"Saneholtz,Marissa L",School of Art,Asst Teaching Professor,msaneho@bgsu.edu,419/372-3891,Saneholtz,Marissa,L,marissa l saneholtz
+"Skinner Green,Rebecca L",School of Art,Associate Professor,rlgreen@bgsu.edu,419/372-8514,Skinner Green,Rebecca,L,rebecca l skinner green
+"Stewart,Taylor S",Arts &Sciences - Resources and Planning,Asst Teaching Professor,tayloss@bgsu.edu,419/372-2018,Stewart,Taylor,S,taylor s stewart
+"Stucker,Jennifer",School of Art,Associate Professor,jstuck@bgsu.edu,419/372-2160,Stucker,Jennifer,,jennifer stucker
+"Terry-Fritsch,Allison Lee",School of Art,Associate Professor,alterry@bgsu.edu,419/372-8533,Terry-Fritsch,Allison,Lee,allison lee terry-fritsch
+"Tucker,Charles Eugene",School of Art,Asst Teaching Professor,cetucke@bgsu.edu,419/372-4193,Tucker,Charles,Eugene,charles eugene tucker
+"Waterfield,Kim Turner",School of Art,Assoc Teaching Professor,kwater@bgsu.edu,419/372-9032,Waterfield,Kim,Turner,kim turner waterfield
+"Wojtkiewicz,Dennis J",School of Art,Professor,dwojtki@bgsu.edu,419/372-2609,Wojtkiewicz,Dennis,J,dennis j wojtkiewicz
+"Woodstrup,Bart",Arts &Sciences - Resources and Planning,Associate Professor,woodbar@bgsu.edu,419/372-2018,Woodstrup,Bart,,bart woodstrup
+"Young,Loraine Jeanette",School of Art,Associate Professor,lyoung@bgsu.edu,419/372-7763,Young,Loraine,Jeanette,loraine jeanette young
+"Coletta Jr,Charles Anthony",Popular Culture,Assoc Teaching Professor,ccolett@bgsu.edu,419/372-0546,Coletta Jr,Charles,Anthony,charles anthony coletta jr
+"Kinney,Rebecca Jo",American Culture Studies,Associate Professor,rkinney@bgsu.edu,419/372-4378,Kinney,Rebecca,Jo,rebecca jo kinney
+"Pena,Susana",School of Cultural and Critical Studies,Director/Associate Professor,susanap@bgsu.edu,419/372-7117,Pena,Susana,,susana pena
+"Rainey,Sarah Anne",Women's Studies,Associate Professor,sasarah@bgsu.edu,419/372-6949,Rainey,Sarah,Anne,sarah anne rainey
+"Fu,Yuning",SEES,Associate Professor,yfu@bgsu.edu,419/372-3235,Fu,Yuning,,yuning fu
+"Gorsevski,Peter V",Geology Department,Associate Professor,peterg@bgsu.edu,419/372-7201,Gorsevski,Peter,V,peter v gorsevski
+"Hensley,Nathan Stewart","School of Earth, Environment and Society",Assistant Professor,nhensle@bgsu.edu,419/372-8203,Hensley,Nathan,Stewart,nathan stewart hensley
+"Liu,Ganming","School of Earth, Environ & Soc",Assistant Professor,gliu@bgsu.edu,419/372-0517,Liu,Ganming,,ganming liu
+"Simic Milas,Anita","School of Earth, Environment and Society",Associate Professor,asimic@bgsu.edu,419/372-4035,Simic Milas,Anita,,anita simic milas
+"Vazquez Ortega,Angelica",Arts &Sciences - Resources and Planning,Assistant Professor,avazque@bgsu.edu,419/372-9385,Vazquez Ortega,Angelica,,angelica vazquez ortega
+"Cho,Sungho","School of HMSLS, SMRT Division",Associate Professor,scho@bgsu.edu,419/372-6902,Cho,Sungho,,sungho cho
+"Choo,Hyungsuk","School of Human Movement, Sport and Leisure Studies",Associate Professor,hchoo@bgsu.edu,419/372-7862,Choo,Hyungsuk,,hyungsuk choo
+"Cripps,Andrea Elizabeth",College of Education & Human Development,Associate Professor,acripps@bgsu.edu,419/372-0221,Cripps,Andrea,Elizabeth,andrea elizabeth cripps
+"Darby,Lynn A",School of HMSLS,Professor,ldarby@bgsu.edu,419/372-6903,Darby,Lynn,A,lynn a darby
+"Fullenkamp,Adam M",School of HMSLS,Associate Professor,fullena@bgsu.edu,419/372-6929,Fullenkamp,Adam,M,adam m fullenkamp
+"Hartzog,Meggan Kohli",School of Human Mvmnt/Sport/Leisure Studies,Asst Teaching Professor,mhartzo@bgsu.edu,419/372-7232,Hartzog,Meggan,Kohli,meggan kohli hartzog
+"Heggie,Travis Wade","Human Movement, Sport and Leisure Studies",Associate Professor,theggie@bgsu.edu,419/372-2395,Heggie,Travis,Wade,travis wade heggie
+"Keylock,K Todd",Exercise Science,Associate Professor,tkeyloc@bgsu.edu,419/372-6912,Keylock,K,Todd,k todd keylock
+"Kiss,Jessica E",Human Mvmnt/Sport/Leisure Studies,Asst Teaching Professor,jekiss@bgsu.edu,419/372-0227,Kiss,Jessica,E,jessica e kiss
+"Koba,Amanda Leigh",School of HMSLS,Professor,apaule@bgsu.edu,419/372-7229,Koba,Amanda,Leigh,amanda leigh koba
+"Krane,Vikki",School of HMSLS,Professor,vkrane@bgsu.edu,419/372-7233,Krane,Vikki,,vikki krane
+"Kutz,Matthew Robert",School of HMSLS,Professor,mkutz@bgsu.edu,419/372-5917,Kutz,Matthew,Robert,matthew robert kutz
+"Lee,Bob Du",School of HMSLS,Professor,bdlee@bgsu.edu,419/372-2396,Lee,Bob,Du,bob du lee
+"Lee,Jiesun",School of HMSLS,Assistant Professor,jielee@bgsu.edu,419/372-2879,Lee,Jiesun,,jiesun lee
+"Meek,Geoffrey Andrew",School of HMSLS,Associate Professor,gmeek@bgsu.edu,419/372-0501,Meek,Geoffrey,Andrew,geoffrey andrew meek
+"Miller,Robyn G","School of Human Movement, Sport and Leisure Studies",Assoc Teaching Professor,robyngm@bgsu.edu,419/372-7234,Miller,Robyn,G,robyn g miller
+"Morgan,Amy L",School of HMSLS,Professor,amorgan@bgsu.edu,419/372-3587,Morgan,Amy,L,amy l morgan
+"Muir,Heather Ann","Human Movement, Sport and Leisure Studies",Assoc Teaching Professor,hmuir@bgsu.edu,419/372-7230,Muir,Heather,Ann,heather ann muir
+"Peters,Nathan Anthony",College of Education - Admin,Asst Teaching Professor,peterna@bgsu.edu,419/372-7240,Peters,Nathan,Anthony,nathan anthony peters
+"Schommer,Christopher August",Athletic Training / Clinic Management,Teaching Professor-Exc Sc Prog,schomme@bgsu.edu,419/372-6810,Schommer,Christopher,August,christopher august schommer
+"Spencer,Nancy Elizabeth",School of HMSLS,Professor,nspencr@bgsu.edu,419/372-6927,Spencer,Nancy,Elizabeth,nancy elizabeth spencer
+"Tobar,David Allen",School of HMSLS,Associate Professor,dtobar@bgsu.edu,419/372-6914,Tobar,David,Allen,david allen tobar
+"Toonstra,Jenny Lin",HMSLS,Assistant Professor,jltoons@bgsu.edu,419/372-4429,Toonstra,Jenny,Lin,jenny lin toonstra
+"Turner,Adrian Peter",School of HMSLS,Associate Professor,adriant@bgsu.edu,419/372-0229,Turner,Adrian,Peter,adrian peter turner
+"Xie,Philip Feifan",School of HMSLS,Professor,pxie@bgsu.edu,419/372-6917,Xie,Philip,Feifan,philip feifan xie
+"Beskid,Philip J",Media and Communication,Asst Teaching Professor,pbeskid@bgsu.edu,419/372-5317,Beskid,Philip,J,philip j beskid
+"Cavera,Christopher Smith",School of Media & Comm,Asst Teaching Professor,ccavera@bgsu.edu,419/372-3407,Cavera,Christopher,Smith,christopher smith cavera
+"Crighton,Jasmine S",School of Media and Communication,Asst Teaching Professor,jcright@bgsu.edu,419/372-7172,Crighton,Jasmine,S,jasmine s crighton
+"Ju,Ilyoung",College of Arts & Sciences,Assistant Professor,jui@bgsu.edu,419/372-3422,Ju,Ilyoung,,ilyoung ju
+"Lu,Yanqin",College of Arts & Sciences,Assistant Professor,ylu@bgsu.edu,419/372-2405,Lu,Yanqin,,yanqin lu
+"Stafford,Laura Lynne",School of Media and Communication,Director/Professor,llstaff@bgsu.edu,419/372-8349,Stafford,Laura,Lynne,laura lynne stafford
+"Williams,Sean David",Media and Communications,Asst Teaching Professor,sdwilli@bgsu.edu,419/372-2372,Williams,Sean,David,sean david williams
+"Banister,Savilla Irene",Educ/Div Teaching and Learning,Professor,sbanist@bgsu.edu,419/372-7297,Banister,Savilla,Irene,savilla irene banister
+"Bertelsen,Cynthia Diane",Educ/Div Teaching and Learning,Associate Professor,bertels@bgsu.edu,419/372-4249,Bertelsen,Cynthia,Diane,cynthia diane bertelsen
+"Bostic,Jonathan D",School of Teaching and Learning,Associate Professor,bosticj@bgsu.edu,419/372-9667,Bostic,Jonathan,D,jonathan d bostic
+"Brodeur,Katherine Abigail",School of Teaching and Learning,Assistant Professor,brodeuk@bgsu.edu,419/372-7277,Brodeur,Katherine,Abigail,katherine abigail brodeur
+"Burke,Brigid Moira",School of Teaching and Learning,Associate Professor,bburke@bgsu.edu,419/372-7324,Burke,Brigid,Moira,brigid moira burke
+"Clark,Matthew K",STL/Curriculum & Teaching,Asst Teaching Professor,matclar@bgsu.edu,419/372-7320,Clark,Matthew,K,matthew k clark
+"Dudley,Stacey A",Educ/Div Teaching and Learning,Teaching Professor,sdudley@bgsu.edu,419/372-9954,Dudley,Stacey,A,stacey a dudley
+"Duran,Emilio",School of Teaching and Learning,Professor,eduran@bgsu.edu,419/372-1262,Duran,Emilio,,emilio duran
+"Duran,Lena Ballone",Educ/Div Teaching and Learning,Associate Professor,ballone@bgsu.edu,419/372-9410,Duran,Lena,Ballone,lena ballone duran
+"Fischer,John Murray",School of Teaching and Learning,Professor,jfisch@bgsu.edu,419/372-7342,Fischer,John,Murray,john murray fischer
+"Gallagher,Debra Kay",School of Teaching and Learning,Assoc Teaching Professor,dgallag@bgsu.edu,419/372-9110,Gallagher,Debra,Kay,debra kay gallagher
+"Goedde,Allison Marie",Educ/Div Teaching and Learning,Teaching Professor,agoedde@bgsu.edu,419/372-7394,Goedde,Allison,Marie,allison marie goedde
+"Graser,Larry J",Educ/Div Teaching and Learning,Asst Teaching Professor,larrygr@bgsu.edu,419/372-9619,Graser,Larry,J,larry j graser
+"Hoerig,Andrea Dawn",College of Education - Admin,Asst Teaching Professor,hoeriga@bgsu.edu,419/372-7325,Hoerig,Andrea,Dawn,andrea dawn hoerig
+"Kern-Blystone,Dorothy Jean",School of Teaching and Learning,Teaching Professor,djkern@bgsu.edu,419/372-2902,Kern-Blystone,Dorothy,Jean,dorothy jean kern-blystone
+"Lee,Ilrang",College of Educaiton and Human Development,Assistant Professor,leei@bgsu.edu,419/372-3343,Lee,Ilrang,,ilrang lee
+"Lewandowski,Arthur Joseph",School of Teaching & Learning,Asst Teaching Professor,lewanda@bgsu.edu,419/372-3191,Lewandowski,Arthur,Joseph,arthur joseph lewandowski
+"Li,Lan",Educ/Div Teaching and Learning,Professor,lli@bgsu.edu,419/372-7335,Li,Lan,,lan li
+"Matney,Gabriel Todd",School of Teaching and Learning,Professor,gmatney@bgsu.edu,419/372-7357,Matney,Gabriel,Todd,gabriel todd matney
+"McArthur,Julia Marie",College of Education and Human Development,Adjunct Assistant Professor,jmmcart@bgsu.edu,419/372-7377,McArthur,Julia,Marie,julia marie mcarthur
+"Murnen,Timothy James",Educ/Div Teaching and Learning,Associate Professor,tmurnen@bgsu.edu,419/372-7983,Murnen,Timothy,James,timothy james murnen
+"Nadler,Jeremy R",College of Education - Admin,Teaching Professor,jnadler@bgsu.edu,419/372-7403,Nadler,Jeremy,R,jeremy r nadler
+"Patterson,Nancy Carol",Educ/Div Teaching and Learning,Professor,ncpatte@bgsu.edu,419/372-9379,Patterson,Nancy,Carol,nancy carol patterson
+"Roberts,Oliver Thomas",College of Education - Admin,Assistant Professor,otrober@bgsu.edu,419/372-7348,Roberts,Oliver,Thomas,oliver thomas roberts
+"Ross,Cynthia Ann",Educ/Div Teaching and Learning,Teaching Professor,rosscin@bgsu.edu,419/372-7318,Ross,Cynthia,Ann,cynthia ann ross
+"Seals,Mark A",College of Education - Admin,"Dir, Tch learn/Professor",mseals@bgsu.edu,419/372-7622,Seals,Mark,A,mark a seals
+"Stevens,Mark Allen",School of Teaching and Learning,Asst Teaching Professor,msteven@bgsu.edu,419/372-7346,Stevens,Mark,Allen,mark allen stevens
+"Thomas,Angela Falter",School of Teaching and Learning,Associate Professor,angthom@bgsu.edu,419/372-9546,Thomas,Angela,Falter,angela falter thomas
+"Thompson,Dawn Michelle",School of Teaching and Learning,Asst Teaching Professor,thompdm@bgsu.edu,419/372-2904,Thompson,Dawn,Michelle,dawn michelle thompson
+"Vrooman,Patrick Duane",School of Teaching and Learning,Assoc Teaching Professor,vrooman@bgsu.edu,419/372-9185,Vrooman,Patrick,Duane,patrick duane vrooman
+"Weaver,Joanna",School of Teaching & Learning,Assistant Professor,weavej@bgsu.edu,419/372-7290,Weaver,Joanna,,joanna weaver
+"Worch,Eric A",School of Teaching and Learning,Professor,eworch@bgsu.edu,419/372-7365,Worch,Eric,A,eric a worch
+"Adams,Margaret Jayne",Human Services,Assoc Clinical Professor,padams@bgsu.edu,419/372-7608,Adams,Margaret,Jayne,margaret jayne adams
+"Carriker,Angela Ann",College of Health and Human Services,Asst Clinical Professor,acarrik@bgsu.edu,419/372-8249,Carriker,Angela,Ann,angela ann carriker
+"Ford,Tasha Marie",BGSU-Firelands,Asst Clinical Professor,tashaf@bgsu.edu,419/372-0938,Ford,Tasha,Marie,tasha marie ford
+"Lee,Hee Soon",Social Work,Associate Professor,leeh@bgsu.edu,419/372-9538,Lee,Hee,Soon,hee soon lee
+"Mason,Derek Treen",Social Work,Associate Professor,dtmason@bgsu.edu,419/372-8901,Mason,Derek,Treen,derek treen mason
+"Miller,Vivian Jean",College of Health and Human Services,Assistant Professor,millevj@bgsu.edu,419/372-7920,Miller,Vivian,Jean,vivian jean miller
+"Molnar,Matthew Michael",Col of Health & Human Services,Asst Clinical Professor,mmolnar@bgsu.edu,419/372-8903,Molnar,Matthew,Michael,matthew michael molnar
+"Balistreri,Kelly Stamper",Department of Sociology,Associate Professor,kellyba@bgsu.edu,419/372-9523,Balistreri,Kelly,Stamper,kelly stamper balistreri
+"Boman,John H",Arts &Sciences - Resources and Planning,Associate Professor,jboman@bgsu.edu,419/372-3874,Boman,John,H,john h boman
+"Brown,Susan Louise",Sociology,Chair/Professor,brownsl@bgsu.edu,419/372-9521,Brown,Susan,Louise,susan louise brown
+"Demuth,Stephen Herbert",Sociology Department,Associate Professor,demuth@bgsu.edu,419/372-7260,Demuth,Stephen,Herbert,stephen herbert demuth
+"Duntley,Madeline",Sociology Department,Associate Professor,dmadeli@bgsu.edu,419/372-7012,Duntley,Madeline,,madeline duntley
+"Gilbertson,Meredith Jane",Department of Sociology,Assoc Teaching Professor,mjanep@bgsu.edu,419/372-2297,Gilbertson,Meredith,Jane,meredith jane gilbertson
+"Giordano,Peggy C",Sociology Department,Adjunct Professor,pgiorda@bgsu.edu,419/372-2320,Giordano,Peggy,C,peggy c giordano
+"Guzzo,Karen Benjamin",Sociology Department,Professor,kguzzo@bgsu.edu,419/372-3312,Guzzo,Karen,Benjamin,karen benjamin guzzo
+"Kuhl,Danielle Corinne",Sociology Department,Associate Professor,dckuhl@bgsu.edu,419/372-7264,Kuhl,Danielle,Corinne,danielle corinne kuhl
+"Lin,I-Fen",Sociology Department,Professor,ifenlin@bgsu.edu,419/372-8517,Lin,I-Fen,,i-fen lin
+"Longmore,Monica A",Sociology Department,Professor,mseff@bgsu.edu,419/372-2408,Longmore,Monica,A,monica a longmore
+"Mowen,Thomas James",Sociology,Associate Professor,tmowen@bgsu.edu,419/372-2420,Mowen,Thomas,James,thomas james mowen
+"Nomaguchi,Kei",Sociology,Professor,knomagu@bgsu.edu,419/372-8147,Nomaguchi,Kei,,kei nomaguchi
+"Oates,Gary L St C",Sociology Department,Associate Professor,oatesg@bgsu.edu,419/372-4915,Oates,Gary,L,gary l oates
+"Sanchez,Laura Ann",Sociology Department,Professor,lsanche@bgsu.edu,419/372-7252,Sanchez,Laura,Ann,laura ann sanchez
+"Weinberger,Margaret J",Sociology Department,Teaching Professor,weinber@bgsu.edu,419/372-3907,Weinberger,Margaret,J,margaret j weinberger
+"Yahirun,Jenjira J.",Sociology Department,Assistant Professor,yahirun@bgsu.edu,419/372-2743,Yahirun,Jenjira,J.,jenjira j. yahirun
+"Ahlgren,Angela Kristine",Department of Theatre and Film,Associate Professor,akahlgr@bgsu.edu,419/372-2222,Ahlgren,Angela,Kristine,angela kristine ahlgren
+"Baron,Cynthia Ann",Theatre and Film,Professor,cbaron@bgsu.edu,419/372-9639,Baron,Cynthia,Ann,cynthia ann baron
+"Boone,Steven E",Theatre and Film,Associate Professor,sboone@bgsu.edu,419/372-7178,Boone,Steven,E,steven e boone
+"Castillo,Thomas Javier",Theatre and Film,Associate Professor,tjcasti@bgsu.edu,419/372-3236,Castillo,Thomas,Javier,thomas javier castillo
+"Chambers,Sara Louise",Theatre and Film,Teaching Professor,schambe@bgsu.edu,419/372-3142,Chambers,Sara,Louise,sara louise chambers
+"Clark,Bradford Burton",Theatre and Film,Professor,bclark@bgsu.edu,419/372-7174,Clark,Bradford,Burton,bradford burton clark
+"Crompton,Stephen John",Arts &Sciences - Resources and Planning,Asst Teaching Professor,stecrom@bgsu.edu,419/372-6919,Crompton,Stephen,John,stephen john crompton
+"Ellison,Michael Bruce",Theatre and Film,Associate Professor,ellison@bgsu.edu,419/372-0472,Ellison,Michael,Bruce,michael bruce ellison
+"Lockford,Lesa Lorraine",Theatre and Film,Chair/Professor,lockflo@bgsu.edu,419/372-9381,Lockford,Lesa,Lorraine,lesa lorraine lockford
+"Mangan,Kelly Ann",Theatre and Film,Assoc Teaching Professor,mangank@bgsu.edu,419/372-7171,Mangan,Kelly,Ann,kelly ann mangan
+"McCubbin,Margaret Ann",Theatre and Film,Associate Professor,mmccubb@bgsu.edu,419/372-7176,McCubbin,Margaret,Ann,margaret ann mccubbin
+"Murphy,Colleen Elizabeth",School of HMSLS,Assoc Teaching Professor,cmurphy@bgsu.edu,419/372-0225,Murphy,Colleen,Elizabeth,colleen elizabeth murphy
+"Nees-Carver,Heidi L",Theatre and Film,Assistant Professor,hlnees@bgsu.edu,419/372-7177,Nees-Carver,Heidi,L,heidi l nees-carver
+"Ostrowski,Lucas Kyle",Theatre and Film,Associate Professor,lostrow@bgsu.edu,419/372-9367,Ostrowski,Lucas,Kyle,lucas kyle ostrowski
+"Rankin,Cortland W",Theatre and Film,Assistant Professor,rankicw@bgsu.edu,419/372-7440,Rankin,Cortland,W,cortland w rankin
+"Stephenson,Geoffrey William",Theatre and Film,Teaching Professor,gstephe@bgsu.edu,419/372-3138,Stephenson,Geoffrey,William,geoffrey william stephenson
+"Williams,Daniel Eric",Theatre and Film,Associate Professor,dewilli@bgsu.edu,419/372-3199,Williams,Daniel,Eric,daniel eric williams
+"Benjamin,Gary Martin",VCT-Tech Education,Assoc Teaching Professor,gbenjam@bgsu.edu,419/372-3606,Benjamin,Gary,Martin,gary martin benjamin
+"Fall,Jodi Ann",VCT - Tech Education,Teaching Professor,jodifall@bgsu.edu,419/372-9149,Fall,Jodi,Ann,jodi ann fall
+"Fugett,Laney E",VCT - Tech Education,Teaching Professor,lfugett@bgsu.edu,419/372-9561,Fugett,Laney,E,laney e fugett
+"Gao,Fei",College of Technology,Associate Professor,gaof@bgsu.edu,419/372-5446,Gao,Fei,,fei gao
+"Hall,Jeffrey L",VCT-Tech Education,Teaching Professor,jlhall@bgsu.edu,419/372-7929,Hall,Jeffrey,L,jeffrey l hall
+"Leonard,Maggie Mae",VCT - Tech Education,Teaching Professor,maggiev@bgsu.edu,419/372-7566,Leonard,Maggie,Mae,maggie mae leonard
+"Schnepp,Jerry Clyde",VCT,Associate Professor,schnepp@bgsu.edu,419/372-7585,Schnepp,Jerry,Clyde,jerry clyde schnepp
+"Trautman,Donna Kae",College of Technology,Associate Professor,dktraut@bgsu.edu,419/372-7575,Trautman,Donna,Kae,donna kae trautman
+"Vollmar,Beth A",Visual Communication & Technology Education,Assoc Teaching Professor,vollmab@bgsu.edu,419/372-2437,Vollmar,Beth,A,beth a vollmar
+"Waltonen Moore,Shelley Lynn",Visual Communication and Technology Education,Teaching Professor,swmoore@bgsu.edu,419/372-7557,Waltonen Moore,Shelley,Lynn,shelley lynn waltonen moore
+"Alvarez,Carmen Lizeth",World Languages and Cultures,Assoc Teaching Professor,acarmen@bgsu.edu,419/372-2667,Alvarez,Carmen,Lizeth,carmen lizeth alvarez
+"Attig,Remy",Arts &Sciences - Resources and Planning,Assistant Professor,rattig@bgsu.edu,419/372-2018,Attig,Remy,,remy attig
+"Cabanillas,Francisco",World Languages and Cultures,Professor,fcabani@bgsu.edu,419/372-2469,Cabanillas,Francisco,,francisco cabanillas
+"Celli,Carlo Juhani",World Languages and Cultures,Professor,celli@bgsu.edu,419/372-7151,Celli,Carlo,Juhani,carlo juhani celli
+"Dee,Nicholas",World Languages and Cultures,Asst Teaching Professor,ndee@bgsu.edu,419/372-2670,Dee,Nicholas,,nicholas dee
+"Ducar,Cynthia M",World Languages and Cultures,Associate Professor,cmducar@bgsu.edu,419/372-7152,Ducar,Cynthia,M,cynthia m ducar
+"Ferrando Valero,Carles",World Languages and Cultures,Assistant Professor,carlesf@bgsu.edu,419/372-8053,Ferrando Valero,Carles,,carles ferrando valero
+"Foell,Kristie A",World Languages and Cultures,Associate Professor,foell@bgsu.edu,419/372-2369,Foell,Kristie,A,kristie a foell
+"Grinberg Pla,Valeria",World Languages and Cultures,Professor,vgrinb@bgsu.edu,419/372-8058,Grinberg Pla,Valeria,,valeria grinberg pla
+"Guenther,Beatrice Martina",World Languages and Cultures,Associate Professor,bguenth@bgsu.edu,419/372-8069,Guenther,Beatrice,Martina,beatrice martina guenther
+"Guenther,Christina Eiko",World Languages and Cultures,Professor,cguenth@bgsu.edu,419/372-7589,Guenther,Christina,Eiko,christina eiko guenther
+"Jones,Akiko K",World Languages and Cultures,Teaching Professor,jakiko@bgsu.edu,419/372-7136,Jones,Akiko,K,akiko k jones
+"Juarez,Susana",World Languages and Cultures,Asst Teaching Professor,sjuarez@bgsu.edu,419/372-8053,Juarez,Susana,,susana juarez
+"Landgraf,Edgar",World Languages and Cultures,Professor,elandgr@bgsu.edu,419/372-9517,Landgraf,Edgar,,edgar landgraf
+"Marquina Hervias,Lesnny Karina",World Languages and Cultures,Asst Teaching Professor,lmarqui@bgsu.edu,419/372-2667,Marquina Hervias,Lesnny,Karina,lesnny karina marquina hervias
+"Okamura,Ryoko",World Languages and Cultures,Assistant Professor,oryoko@bgsu.edu,419/372-5566,Okamura,Ryoko,,ryoko okamura
+"Pearson,Lynn Ellen",World Languages and Cultures,Associate Professor,pearson@bgsu.edu,419/372-7141,Pearson,Lynn,Ellen,lynn ellen pearson
+"Peek,Philip S",World Languages and Cultures,Chair/Associate Professor,peekps@bgsu.edu,419/372-2468,Peek,Philip,S,philip s peek
+"Pfundstein,James McNally",World Languages and Cultures,Teaching Professor,jmpfund@bgsu.edu,419/372-8278,Pfundstein,James,McNally,james mcnally pfundstein
+"Pogacar,Timothy",World Languages and Cultures,Associate Professor,pogacar@bgsu.edu,419/372-8028,Pogacar,Timothy,,timothy pogacar
+"Porben,Pedro Pablo",World Languages and Cultures,Associate Professor,porbenp@bgsu.edu,419/372-2667,Porben,Pedro,Pablo,pedro pablo porben
+"Robinson,Amy",World Languages and Cultures,Associate Professor,arobins@bgsu.edu,419/372-2168,Robinson,Amy,,amy robinson
+"Schocket,Deborah Houk",World Languages and Cultures,Associate Professor,dschock@bgsu.edu,419/372-8632,Schocket,Deborah,Houk,deborah houk schocket
+"Stakhanova,Irina G",World Languages and Cultures,Associate Professor,irina@bgsu.edu,419/372-7135,Stakhanova,Irina,G,irina g stakhanova
+"Whipple,Cynthia Phelps",World Languages and Cultures,Assoc Teaching Professor,cphelps@bgsu.edu,419/372-7156,Whipple,Cynthia,Phelps,cynthia phelps whipple
+"Wolter,Jennifer Kristen",World Languages and Cultures,Assoc Teaching Professor,jwolter@bgsu.edu,419/372-3581,Wolter,Jennifer,Kristen,jennifer kristen wolter
+"Yang,Min",World Languages and Cultures,Assistant Professor,ymin@bgsu.edu,419/372-7140,Yang,Min,,min yang
+"Zongo,Opportune",World Languages and Cultures,Associate Professor,ozongo@bgsu.edu,419/372-7396,Zongo,Opportune,,opportune zongo

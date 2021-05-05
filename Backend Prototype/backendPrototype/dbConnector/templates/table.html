@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <table>
+        {% for entry in dbconnector_researchint %}
+            <tr>
+                <td>{{entry.id}}</td>
+                <td>{{entry.name}}</td>
+                <td>{{entry.interest}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</head>
+<body>
+
+</body>
+</html>

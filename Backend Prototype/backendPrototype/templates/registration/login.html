@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{% load static %}
+<html leng="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Research Collaboration</title>
+    <meta name="viewport" content="width=device-width, initial scale1.0">
+    <link rel="stylesheet" href="{% static 'css/styleMain.css' %}">
+    <link rel="stylesheet" href="{% static 'css/styleHome.css' %}">
+</head>
+<div>
+    <nav>
+        <div class="logo" style="padding-left:1rem;">
+            <a href="{% url 'home' %}"><img src="{%  static 'images/bgsulogo.png' %}" alt="logo"></a>
+            <h1>Research Collaboration</h1>
+        </div>
+        <ul>
+            <li class="home"><a href="{% url 'home' %}">Home<span class="icon"><img src="{% static 'images\home-5-16.png'%}" alt="home"></span></a></li>
+        </ul>
+    </nav>
+    <div class="main">
+        <br>
+        <div class="intro">
+                <h1 class="title">Log In</h1>
+                <p>
+                    <br>
+                    <form style="padding-left:10rem;" method="post">
+                    {% csrf_token %}
+                    {{ form.as_p }}
+                    <button type="submit">Log In</button>
+                    </form>
+                    <br>
+                </p>
+            </div>
+    </div>
+</div>
+</body>
+</html>

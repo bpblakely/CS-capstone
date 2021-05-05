@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+{% load static %}
+<html leng="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Research Collaboration</title>
+    <meta name="viewport" content="width=device-width, initial scale1.0">
+    <link rel="stylesheet" href="{% static 'css/styleMain.css' %}">
+    <link rel="stylesheet" href="{% static 'css/styleUpload.css' %}">
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <a href="{% url 'home' %}"><img src="{% static 'images/bgsulogo.png' %}" alt="logo"/></a>
+            <h1>Research Collaboration</h1>
+        </div>
+        <ul>
+            <li class="home"><a href="{% url 'home' %}">Home<span class="icon"><img src="{% static 'images\home-5-16.png' %}" alt="home"></span></a></li>
+            {% if user.is_authenticated %}
+                {% if faculty %}
+                <li class="update"><a href="{% url 'update' %}">Update<span class="icon"><img src="{% static 'images\upload-16.png'%}" alt="update"></span></a></li>
+                    {% endif %}
+                {{ user.username }}
+                <li class="signOut"><a href="{% url 'logout' %}">Sign Out<span class="icon"><img src="{% static 'images\logout-16.png' %}" alt="sign out"></span></a></li>
+            {% else %}
+                <li class="login"><a href="{% url 'login' %}">Login<span class="icon"><img src="{% static 'images\login-icon-18-16.png' %}" alt="login"></span></a></li>
+            {% endif %}
+        </ul>
+    </nav>
+    <div class="main">
+        <h1 class="title">Update Information</h1>
+        <hr style="background-color: #3f3f3f; color: black; opacity: .7; width: 20%; border-width:0; height: 2px; margin: auto; margin-top: 10px; margin-bottom: .5rem;">
+        <div class="intro">
+            <p>
+                <br>
+                This is the portion of the website where faculty members can upload their personal information
+                for other users to search for.
+                <br>
+                <br>
+                Upload your CV first. Your data will then be pulled from the given file and put in the text boxes below. You can then edit 
+                each area to make sure the information is correct. Then click the button at the button to upload the information.
+                <br>
+                <br>
+                <span>Warning:</span> Only faculty members are allowed to upload information.
+                <br>
+                <br>
+            </p>
+        </div>
+        <form class="fileUpload" method="post" action="uploadPDF" enctype="multipart/form-data" >
+            {% csrf_token %}
+            {{ form.as_p }}
+            <input class="choose" type="file" id="filename" name="filename">
+            <br><br>
+            <input class="uploadButton" type="submit" value="Upload PDF">
+        </form>
+        {% if message %}
+            <script>
+                alert('{{ message }}');
+            </script>
+        {% endif %}
+        <br>
+        <form class="dataInput" action="upload_submit_button">
+            <label for="name">Name: </label><br>
+            <p style="height: .1rem"></p>
+            <input type="text" id="name" name="name" value="{{user.get_full_name}}" readonly><br>
+            <p style="height: .75rem"></p>
+            <label for="email">Email: </label><br>
+            <p style="height: .1rem"></p>
+            <input type="text" id="email" name="email" value="{{user.email}}" readonly><br>
+            <p style="height: .75rem"></p>
+            <label for="dept">Department: </label><br>
+            <p style="height: .1rem"></p>
+            <input type="text" id="dept" name="dept" value="{{dept}}"><br>
+            <p style="height: .75rem"></p>
+            <label for="interests">Research Interests (separate with new line and ";"): </label><br>
+            <p style="height: .1rem"></p>
+            <textarea id="interests" name="interests" class="multi" style="font-family: Verb, sans-serif">{{interests}}</textarea><br>
+            <p style="height: .75rem"></p>
+            <label for="pubs">Publications (separate with new line and ";"): </label><br>
+            <p style="height: .1rem"></p>
+            <textarea id="pubs" name="pubs" class="multi" style="font-family: Verb, sans-serif">{{pubs}}</textarea><br>
+            <p style="height: .75rem"></p>
+            <label for="grantz">Funding Agencies Interested In (separate with new line and ";"): </label><br>
+            <p style="height: .1rem"></p>
+            <textarea id="grantz" name="grantz" class="multi" style="font-family: Verb, sans-serif">{{grantz}}</textarea><br>
+            <p style="height: .75rem"></p>
+            {% if faculty %}
+            <div class="buttonHolder"><input type="submit" value="Submit" class="submitButton"></div>
+            {% endif %}
+{#            {% if user.is_staff %}#}
+{#            <div class="buttonHolder"><input type="submit" value="Submit" class="submitButton"></div>#}
+{#            {% endif %}#}
+        </form> 
+    </div>
+</body>
+</html>

@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+body{
+    font-family: Verb, sans-serif;
+    background-color: #4F2C1D;
+}
+
+nav{
+    background: #ff7300;
+    height: 120px;
+    width: 100%;
+    display: block;
+    padding-top: 25px;
+}
+
+nav .logo{
+    height: 100%;
+    width: 1000px;
+    float: left;
+    padding-left:1rem;
+}
+
+nav .logo img{
+    height: 70px;
+    padding-right: 25px;
+    float: left;
+    overflow: hidden;
+}
+
+nav .logo h1{
+    color: white;
+    font-size: 2.5rem;
+    position: relative;
+    top: .3rem;
+    font-weight: 100;
+    overflow: hidden;
+}
+
+nav ul{
+    float: right;
+    margin-right: 1rem;
+    margin-top: 3.5rem;
+    overflow: hidden;
+}
+
+nav ul li{
+    display: inline-block;
+    color: white;
+    margin: 0 .25rem;
+}
+
+nav ul li a{
+    color: white;
+}
+
+.main{
+    margin: 0 auto;
+    margin-top: 2.15rem;
+    /* padding: auto; */
+    display: block;
+    background-color: white;
+    width: 60%;
+    padding-bottom: .75rem;
+    margin-bottom: .75rem;
+    border-radius: .25rem;
+    
+}
+
+.main .title{
+    color: black;
+    opacity: 0.7;
+    font-size: 1.5rem;
+    font-weight: 30;
+    padding-top: .5rem;
+    text-align: center;
+}
+
+.main .title .area{
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: .5rem;
+    text-align: center;
+}
+
+.dropSearch {
+    width: 67%;
+    margin: 0 auto;
+}
+
+.searchBar .dropdown {
+    width: 33%;
+}
+
+.searchBar .search{
+    width: 60%;
+    height: 1.6rem;
+    border-color: black;
+    opacity: 0.4;
+    text-align: center;
+    margin-top: .5rem;
+    display: inline-block;
+}
+
+.searchBar .searchBarButton{
+    width: 11%;
+    display: block;
+    height: 1.5rem;
+    background-color: #ff7300;
+    font-size: .95rem;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    border: none;
+    overflow: hidden;
+}
+
+div .searchBar .triangle{
+    color: #000000;
+    opacity: 0.4;
+    overflow: hidden;
+}
+
+.intro {
+    margin: 0 auto;
+    /*background-color: #D5d5d5;*/
+    border-style: solid;
+    border-color: #3f3f3f;
+    width: 95%;
+    padding-bottom: .75rem;
+    padding-left: 5.2%;
+    padding-right: 5.2%;
+    margin-bottom: .75rem;
+    border-radius: .25rem;
+}
+
+.intro .title {
+    font-size: 1.6rem;
+    text-align: center;
+    color: #3f3f3f;
+    opacity: 1.0;
+}
+
+.intro span {
+    color: #ff7300;
+}
